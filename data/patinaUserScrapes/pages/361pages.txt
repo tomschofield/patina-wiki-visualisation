@@ -1,0 +1,1 @@
+{"query": {"pages": {"361": {"ns": 6, "pageid": 361, "revisions": [{"comment": "Standing by a peg", "timestamp": "2011-05-29T17:22:26Z", "user": "TomF"}], "title": "File:Peg2.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

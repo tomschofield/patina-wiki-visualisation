@@ -1,0 +1,1 @@
+{"query": {"pages": {"218": {"ns": 100, "pageid": 218, "revisions": [{"comment": "moved [[Card:ImageScheme]] to [[Card:ImageSchema]]", "timestamp": "2011-03-24T15:15:51Z", "user": "MikeJ"}], "title": "Card:ImageScheme"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

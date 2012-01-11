@@ -1,0 +1,1 @@
+{"query": {"pages": {"152": {"ns": 6, "pageid": 152, "revisions": [{"timestamp": "2011-03-04T17:28:09Z", "user": "MikeJ"}], "title": "File:Opmv classes.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

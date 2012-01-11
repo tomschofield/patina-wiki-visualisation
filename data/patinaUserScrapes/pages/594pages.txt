@@ -1,0 +1,1 @@
+{"query": {"pages": {"594": {"ns": 6, "pageid": 594, "revisions": [{"comment": "uploaded a new version of &quot;[[File:PatinaT.jar]]&quot;", "timestamp": "2012-01-06T16:23:14Z", "user": "TomS"}, {"timestamp": "2012-01-06T16:21:19Z", "user": "TomS"}], "title": "File:PatinaT.jar"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

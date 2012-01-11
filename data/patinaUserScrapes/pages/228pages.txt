@@ -1,0 +1,1 @@
+{"query": {"pages": {"228": {"ns": 6, "pageid": 228, "revisions": [{"timestamp": "2011-04-05T16:47:55Z", "user": "RosamundD"}], "title": "File:Daniele.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

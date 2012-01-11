@@ -1,0 +1,1 @@
+{"query": {"pages": {"190": {"ns": 0, "pageid": 190, "revisions": [{"comment": "moved [[ExampleCard]] to [[Card:ExampleCard]]", "timestamp": "2011-03-24T14:35:38Z", "user": "MikeJ"}], "title": "ExampleCard"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,708 @@
+46
+
+DeliverableEthicsApprovalv1
+2011-02-15T14:56:45Z
+46
+
+DeliverableEthicsApprovalv1
+2011-02-15T14:57:40Z
+69
+Created page with "--- Site 1 Identification  We are working on the basis that Site 1 will be Bristol Records Office, although some ethnographic work and early studies may happen in other records o..."
+DeliverableSite1Identificationv1
+2011-02-15T16:12:00Z
+69
+
+DeliverableSite1Identificationv1
+2011-02-15T16:14:24Z
+69
+
+DeliverableSite1Identificationv1
+2011-02-15T16:19:28Z
+82
+Created page with "We are currently considering whether to deploy Daniele's work within the context of our current work or whether to decouple from the deployments and keep his contribution indepen..."
+DeliverableIntervention4v1
+2011-02-16T15:00:06Z
+69
+/* Site 1 Identification */
+DeliverableSite1Identificationv1
+2011-03-06T13:20:36Z
+172
+
+D6.1.1
+2011-03-16T17:29:38Z
+172
+
+D6.1.1
+2011-03-16T17:29:55Z
+172
+
+D6.1.1
+2011-03-16T17:30:24Z
+172
+
+D6.1.1
+2011-03-16T17:31:02Z
+349
+Thoughts on computer vision/augmented reality and portus
+Talk:Archeology work practice v2
+2011-06-08T09:38:45Z
+349
+
+Talk:Archeology work practice v2
+2011-06-08T09:39:31Z
+349
+
+Talk:Archeology work practice v2
+2011-06-08T09:39:55Z
+349
+
+Talk:Archeology work practice v2
+2011-06-08T09:41:56Z
+22
+
+User:MikeF
+2011-06-08T12:55:27Z
+206
+
+Card:Kinect
+2011-06-08T13:12:41Z
+206
+
+Card:Kinect
+2011-06-08T13:13:06Z
+373
+
+File:Kinect.jpg
+2011-06-08T13:16:04Z
+206
+
+Card:Kinect
+2011-06-08T13:16:35Z
+206
+
+Card:Kinect
+2011-06-08T13:18:00Z
+206
+
+Card:Kinect
+2011-06-08T13:18:40Z
+206
+
+Card:Kinect
+2011-06-08T13:19:21Z
+206
+
+Card:Kinect
+2011-06-08T13:35:23Z
+206
+
+Card:Kinect
+2011-06-08T13:39:23Z
+206
+
+Card:Kinect
+2011-06-08T13:40:33Z
+205
+
+Card:Anoto
+2011-06-08T13:43:55Z
+374
+
+File:Anoto.jpg
+2011-06-08T13:45:20Z
+374
+uploaded a new version of &quot;[[File:Anoto.jpg]]&quot;
+File:Anoto.jpg
+2011-06-08T13:46:42Z
+374
+uploaded a new version of &quot;[[File:Anoto.jpg]]&quot;
+File:Anoto.jpg
+2011-06-08T13:51:07Z
+205
+
+Card:Anoto
+2011-06-08T13:54:44Z
+205
+
+Card:Anoto
+2011-06-08T13:57:47Z
+205
+
+Card:Anoto
+2011-06-08T14:01:06Z
+205
+
+Card:Anoto
+2011-06-08T14:01:50Z
+22
+
+User:MikeF
+2011-06-08T14:02:35Z
+364
+Added actions
+Meeting-13/06/2011
+2011-06-14T16:24:23Z
+364
+
+Meeting-13/06/2011
+2011-06-14T16:25:01Z
+50
+
+Minutes
+2011-06-16T11:54:04Z
+381
+Created page with "[[Category:Minutes]]  == Minutes of the teleconference on 2011-06-16 ==  Powwownow details: 0844 4 73 73 73, PIN: 238213  == Agenda ==  '''16/06/2011 PATINA phone conference agen..."
+Minutes-2011-06-16
+2011-06-16T12:16:13Z
+1
+added papers page
+Main Page
+2011-06-17T15:32:24Z
+381
+fixed user links
+Minutes-2011-06-16
+2011-06-17T15:36:51Z
+381
+
+Minutes-2011-06-16
+2011-06-17T15:44:06Z
+387
+Created papers category/page
+Papers
+2011-06-17T15:48:52Z
+387
+
+Papers
+2011-06-17T15:51:09Z
+387
+
+Papers
+2011-06-17T15:52:09Z
+1
+Added annual review page
+Main Page
+2011-06-17T18:47:18Z
+388
+project reviews homepage
+Reviews
+2011-06-17T18:49:23Z
+389
+annual review 1
+Annual Review 1
+2011-06-17T18:50:50Z
+389
+
+Annual Review 1
+2011-06-17T18:51:04Z
+387
+
+Papers
+2011-06-20T06:58:12Z
+387
+organised working papers section by venue
+Papers
+2011-06-20T07:21:32Z
+387
+
+Papers
+2011-06-20T09:34:27Z
+387
+Added a couple of Bristol paper ideas
+Papers
+2011-06-20T17:32:21Z
+387
+
+Papers
+2011-06-20T22:18:52Z
+389
+
+Annual Review 1
+2011-06-28T11:37:53Z
+389
+
+Annual Review 1
+2011-06-28T11:41:41Z
+389
+
+Annual Review 1
+2011-06-28T11:43:10Z
+431
+
+File:PATINA plenary-DRAFT.docx
+2011-06-28T11:45:54Z
+389
+
+Annual Review 1
+2011-06-28T11:48:13Z
+389
+
+Annual Review 1
+2011-06-28T11:54:10Z
+389
+/* Invites, planning and todo list */
+Annual Review 1
+2011-06-28T11:54:35Z
+388
+
+Reviews
+2011-06-28T11:55:15Z
+389
+/* Invites, planning and todo list */
+Annual Review 1
+2011-06-28T12:54:07Z
+50
+/* Teleconference Minutes */
+Minutes
+2011-06-29T10:06:00Z
+432
+Created page with "[[Category:Minutes]]  == Minutes of the teleconference on 2011-06-16 ==  Powwownow details: 0844 4 73 73 73, PIN: 238213  == Agenda ==  '''30/06/2011 PATINA phone conference agen..."
+Minutes-2011-06-30
+2011-06-29T10:11:18Z
+432
+
+Minutes-2011-06-30
+2011-06-30T14:21:21Z
+432
+
+Minutes-2011-06-30
+2011-06-30T16:41:26Z
+432
+
+Minutes-2011-06-30
+2011-06-30T16:42:20Z
+432
+
+Minutes-2011-06-30
+2011-06-30T16:45:18Z
+432
+
+Minutes-2011-06-30
+2011-06-30T16:46:58Z
+432
+
+Minutes-2011-06-30
+2011-06-30T16:47:25Z
+6
+
+DeliverablesYear1
+2011-07-05T10:52:51Z
+441
+Created page with " == Deployments and their Evaluations ==  This page is for iteration 5 of our deliverables, to log the project deployments, data collection and evaluation over the summer, accord..."
+DeliverablesVersion5
+2011-07-05T10:57:32Z
+442
+Created page with "== Archaeology ==  [[Lab deployment | Lab deployment]]  [[Field deployment | Field deployment]]"
+Archaeology
+2011-07-05T10:58:47Z
+443
+Created page with "== Field deployments in archaeology ==  Page to include results of wearable kinect work, Tom' ball interventions etc."
+Field deployment
+2011-07-05T10:59:32Z
+444
+Created page with "== Archaeology lab deployment ==  Page to include results of archaeology lab deployment."
+Lab deployment
+2011-07-05T11:01:27Z
+445
+Created page with "== Genealogy deployments ==   [[Probes | Probes]]  [[Chronotape | Chronotape]]  [[NoteDrop | NoteDrop]]"
+Genealogy
+2011-07-05T11:02:43Z
+445
+
+Genealogy
+2011-07-05T11:03:53Z
+444
+
+Lab deployment
+2011-07-05T11:08:05Z
+445
+
+Genealogy
+2011-07-05T12:21:59Z
+445
+
+Genealogy
+2011-07-05T12:24:54Z
+445
+
+Genealogy
+2011-07-05T12:31:50Z
+443
+
+Field deployment
+2011-07-05T12:41:57Z
+446
+Created page with "== Kinectaeology ==  Placeholder page/name for deployment of Wearable/Remountable Kinect tech in an archaeology setting"
+Kinectaeology
+2011-07-05T12:42:45Z
+444
+
+Lab deployment
+2011-07-05T12:45:05Z
+443
+/* Field deployments in archaeology */
+Field deployment
+2011-07-05T12:45:53Z
+397
+/* Discussion */
+NoteDrop
+2011-07-12T23:06:51Z
+397
+/* Discussion */
+NoteDrop
+2011-07-12T23:07:10Z
+389
+/* Date */
+Annual Review 1
+2011-07-13T15:20:39Z
+389
+/* Location */
+Annual Review 1
+2011-07-13T15:22:00Z
+389
+/* Invites, planning and todo list */
+Annual Review 1
+2011-07-13T15:23:05Z
+432
+
+Minutes-2011-06-30
+2011-07-13T15:50:26Z
+389
+/* Invites, planning and todo list */
+Annual Review 1
+2011-07-13T16:47:51Z
+389
+
+Annual Review 1
+2011-07-13T16:49:19Z
+389
+
+Annual Review 1
+2011-07-13T16:50:26Z
+389
+
+Annual Review 1
+2011-07-13T16:51:10Z
+389
+/* Agenda */
+Annual Review 1
+2011-07-13T17:00:35Z
+432
+
+Minutes-2011-06-30
+2011-07-13T19:39:07Z
+448
+
+Minutes-2011-07-14
+2011-07-13T19:43:08Z
+456
+
+File:PATINA plenary-DRAFT2.docx
+2011-07-13T22:07:51Z
+448
+
+Minutes-2011-07-14
+2011-07-14T09:01:43Z
+448
+
+Minutes-2011-07-14
+2011-07-14T17:46:56Z
+448
+
+Minutes-2011-07-14
+2011-07-14T18:02:19Z
+448
+
+Minutes-2011-07-14
+2011-07-14T18:03:19Z
+50
+
+Minutes
+2011-07-27T08:30:03Z
+470
+Created page with "[[Category:Minutes]]  == Minutes of the teleconference on 2011-07-14 ==  Powwownow details: 0844 4 73 73 73, PIN: 238213  == Agenda ==  '''14/07/2011 PATINA phone conference agen..."
+Minutes-2011-07-28
+2011-07-27T08:41:08Z
+470
+
+Minutes-2011-07-28
+2011-07-27T09:18:36Z
+471
+
+File:PATINA plenary-DRAFT3.docx
+2011-07-27T09:42:17Z
+389
+/* Agenda */
+Annual Review 1
+2011-07-27T09:42:59Z
+470
+
+Minutes-2011-07-28
+2011-07-27T09:44:33Z
+470
+
+Minutes-2011-07-28
+2011-07-27T09:45:14Z
+470
+
+Minutes-2011-07-28
+2011-07-27T22:14:26Z
+470
+
+Minutes-2011-07-28
+2011-07-27T22:18:35Z
+50
+
+Minutes
+2011-08-11T05:37:56Z
+482
+Created page with "[[Category:Minutes]]  == Minutes of the teleconference on 2011-08-11 ==  Powwownow details: 0844 4 73 73 73, PIN: 238213  == Matters arising == New Action Points: * Pete - book r..."
+Minutes-2011-08-11
+2011-08-11T05:40:04Z
+482
+
+Minutes-2011-08-11
+2011-08-15T08:33:31Z
+50
+
+Minutes
+2011-08-24T23:55:45Z
+486
+Created page with "[[Category:Minutes]]  == Minutes of the teleconference on 2011-08-25 ==  Powwownow details: 0844 4 73 73 73, PIN: 238213  == Matters arising == New Action Points: * Pete - book r..."
+Minutes-2011-08-25
+2011-08-24T23:57:01Z
+486
+
+Minutes-2011-08-25
+2011-08-30T15:29:13Z
+488
+
+File:Chronotape-final-submitted.pdf
+2011-09-06T13:55:43Z
+387
+
+Papers
+2011-09-06T14:00:25Z
+387
+
+Papers
+2011-09-06T14:01:21Z
+387
+
+Papers
+2011-09-06T14:02:45Z
+387
+
+Papers
+2011-09-06T15:35:16Z
+387
+/* TEI 2012 */
+Papers
+2011-09-06T15:36:03Z
+387
+/* TEI 2012 */
+Papers
+2011-09-06T15:36:15Z
+387
+/* TEI 2012 */
+Papers
+2011-09-06T15:36:33Z
+50
+/* Teleconference Minutes */
+Minutes
+2011-09-06T15:38:26Z
+489
+Agenda
+Minutes-2011-09-08
+2011-09-06T15:40:23Z
+489
+
+Minutes-2011-09-08
+2011-09-06T16:01:14Z
+363
+
+Meetings
+2011-09-06T16:09:47Z
+490
+Created page with "= Aim of Meeting =   Design integration meeting. Planned for the 31st August 2011 in Bristol.  The aim of the meeting is to think ahead about how - and why - our existing designs..."
+Meeting-31/08/2011
+2011-09-06T16:18:51Z
+490
+
+Meeting-31/08/2011
+2011-09-06T23:10:19Z
+389
+/* Invites, planning and todo list */
+Annual Review 1
+2011-09-16T09:27:52Z
+389
+/* Date */
+Annual Review 1
+2011-09-16T09:30:54Z
+6
+moved [[Deliverables]] to [[DeliverablesYear1]]
+DeliverablesYear1
+2011-09-22T20:40:40Z
+496
+moved [[Deliverables]] to [[DeliverablesYear1]]
+Deliverables
+2011-09-22T20:40:40Z
+7
+moved [[Talk:Deliverables]] to [[Talk:DeliverablesYear1]]
+Talk:DeliverablesYear1
+2011-09-22T20:40:40Z
+497
+moved [[Talk:Deliverables]] to [[Talk:DeliverablesYear1]]
+Talk:Deliverables
+2011-09-22T20:40:40Z
+496
+
+Deliverables
+2011-09-22T20:41:37Z
+498
+Created page with "= Deliverables Year 2 ="
+DeliverablesYear2
+2011-09-22T20:56:41Z
+389
+
+Annual Review 1
+2011-09-22T21:11:27Z
+499
+
+File:PlenaryProceedingsYear1.docx
+2011-09-22T21:12:28Z
+389
+
+Annual Review 1
+2011-09-22T21:12:55Z
+389
+
+Annual Review 1
+2011-09-22T21:13:10Z
+500
+
+File:PATINA-Introduction.pptx
+2011-09-22T21:17:09Z
+501
+
+File:PATINA-Chronotape.pptx
+2011-09-22T21:17:09Z
+502
+
+File:PATINA-Year2.pptx
+2011-09-22T21:17:09Z
+389
+
+Annual Review 1
+2011-09-22T21:18:09Z
+389
+
+Annual Review 1
+2011-09-29T09:32:51Z
+503
+
+File:PATINA-yr1-review-feedback.docx
+2011-09-29T09:33:10Z
+50
+
+Minutes
+2011-10-05T21:26:39Z
+505
+Created page with "[[Category:Minutes]]  == Minutes of the teleconference on 2011-10-06 ==  Powwownow details: 0844 4 73 73 73, PIN: 238213  == Matters arising == No matters arising   == Agenda == ..."
+Minutes-2011-10-06
+2011-10-05T21:32:36Z
+50
+
+Minutes
+2011-10-19T14:05:42Z
+514
+Created page with "[[Category:Minutes]]  == Minutes of the teleconference on 2011-10-20 ==  Powwownow details: 0844 4 73 73 73, PIN: 238213  == Matters arising == No matters arising   == Agenda == ..."
+Minutes-2011-10-20
+2011-10-19T14:06:22Z
+520
+
+Meeting-2/11/2011
+2011-10-24T12:52:47Z
+387
+
+Papers
+2011-10-31T20:43:52Z
+520
+/* Thursday */
+Meeting-2/11/2011
+2011-11-03T09:46:39Z
+520
+/* Thursday */
+Meeting-2/11/2011
+2011-11-03T09:47:39Z
+520
+/* Thursday */
+Meeting-2/11/2011
+2011-11-03T09:48:24Z
+520
+/* Thursday */
+Meeting-2/11/2011
+2011-11-03T10:01:51Z
+520
+/* Attendees: */
+Meeting-2/11/2011
+2011-11-03T14:25:34Z
+498
+
+DeliverablesYear2
+2011-11-03T14:28:50Z
+533
+Created page with " ==January== Ethics submitted  ==February== Student Briefing Students assigned  ==March== Field Training  ==July-September== Excavation lasts 3 weeks"
+Year 2 Timetable
+2011-11-03T14:32:56Z
+533
+
+Year 2 Timetable
+2011-11-03T14:33:12Z
+533
+
+Year 2 Timetable
+2011-11-03T14:34:20Z
+533
+
+Year 2 Timetable
+2011-11-03T14:35:52Z
+533
+
+Year 2 Timetable
+2011-11-03T14:38:28Z
+533
+
+Year 2 Timetable
+2011-11-03T14:38:45Z
+533
+
+Year 2 Timetable
+2011-11-03T15:13:27Z
+534
+
+Break down of timetable
+2011-11-06T10:09:10Z
+536
+
+Task1-Integration
+2011-11-06T10:14:27Z
+536
+
+Task1-Integration
+2011-11-06T10:15:45Z
+536
+
+Task1-Integration
+2011-11-06T10:16:24Z
+539
+
+Task4-CaptureDesign
+2011-12-01T09:11:43Z
+536
+
+Task1-Integration
+2011-12-01T09:59:06Z
+574
+
+Meeting-2011-12-15
+2011-12-11T10:27:23Z

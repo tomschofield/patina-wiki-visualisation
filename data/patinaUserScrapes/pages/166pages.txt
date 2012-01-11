@@ -1,0 +1,1 @@
+{"query": {"pages": {"166": {"ns": 6, "pageid": 166, "revisions": [{"timestamp": "2011-03-16T11:19:40Z", "user": "PeterB"}], "title": "File:TimeTapeSketch02.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

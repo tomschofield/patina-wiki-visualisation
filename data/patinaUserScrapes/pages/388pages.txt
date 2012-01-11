@@ -1,0 +1,1 @@
+{"query": {"pages": {"388": {"ns": 0, "pageid": 388, "revisions": [{"timestamp": "2011-06-28T11:55:15Z", "user": "MikeF"}, {"comment": "project reviews homepage", "timestamp": "2011-06-17T18:49:23Z", "user": "MikeF"}], "title": "Reviews"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

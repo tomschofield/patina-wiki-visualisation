@@ -1,0 +1,1 @@
+{"query": {"pages": {"588": {"ns": 6, "pageid": 588, "revisions": [{"timestamp": "2012-01-06T14:16:59Z", "user": "TomS"}], "title": "File:Objects.jar"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

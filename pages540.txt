@@ -1,0 +1,73 @@
+Task5-DesignCoherence
+PeterB
+/* Meetings */
+2011-11-15T14:08:54Z
+GraemeE
+/* Email List */
+2011-11-12T09:23:47Z
+GraemeE
+/* People in this Group */
+2011-11-12T09:23:20Z
+PeterB
+/* Other communications */
+2011-11-11T11:31:42Z
+EmmaT
+/* Current Tasks (ACTION POINTS!) */
+2011-11-10T16:15:26Z
+EmmaT
+/* Coherence Design */
+2011-11-10T16:10:46Z
+EmmaT
+/* Current Tasks (ACTION POINTS!) */
+2011-11-10T16:05:22Z
+EmmaT
+/* Ongoing Tasks */
+2011-11-10T16:05:13Z
+EmmaT
+/* Ongoing Tasks */
+2011-11-10T16:04:52Z
+EmmaT
+/* Meeting */
+2011-11-10T15:35:23Z
+PeterB
+/* Meeting */
+2011-11-10T14:39:23Z
+EmmaT
+
+2011-11-08T15:11:09Z
+EmmaT
+
+2011-11-08T15:01:47Z
+EmmaT
+
+2011-11-08T15:01:32Z
+EmmaT
+/* Meetings to be arranged */
+2011-11-08T15:00:24Z
+EmmaT
+
+2011-11-08T14:59:40Z
+EmmaT
+/* Ongoing Tasks */
+2011-11-08T14:57:09Z
+EmmaT
+/* Ongoing Tasks */
+2011-11-08T14:51:28Z
+EmmaT
+/* Email List */
+2011-11-07T11:50:22Z
+PeterB
+/* Email List */
+2011-11-04T10:03:11Z
+PeterB
+/* People in this Group */
+2011-11-04T10:02:14Z
+PeterB
+/* Coherence Design */
+2011-11-04T09:34:33Z
+PeterB
+/* 5. Coherence design */
+2011-11-04T09:33:44Z
+PeterB
+Created page with "== 5. Coherence design ==  The page for this task is here: [[Task5-DesignCoherence]]  * Cross pollination  Anne  Andy + Josh   Emma + Matt + Martyn  MikeJ"
+2011-11-04T09:00:56Z

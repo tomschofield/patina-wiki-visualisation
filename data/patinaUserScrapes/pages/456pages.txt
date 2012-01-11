@@ -1,0 +1,1 @@
+{"query": {"pages": {"456": {"ns": 6, "pageid": 456, "revisions": [{"timestamp": "2011-07-13T22:07:51Z", "user": "MikeF"}], "title": "File:PATINA plenary-DRAFT2.docx"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

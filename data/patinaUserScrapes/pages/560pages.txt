@@ -1,0 +1,1 @@
+{"query": {"pages": {"560": {"ns": 6, "pageid": 560, "revisions": [{"comment": "uploaded a new version of &quot;[[File:PoNEditNote.png]]&quot;", "timestamp": "2011-11-21T17:18:48Z", "user": "MikeJ"}, {"timestamp": "2011-11-21T13:27:34Z", "user": "MikeJ"}], "title": "File:PoNEditNote.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

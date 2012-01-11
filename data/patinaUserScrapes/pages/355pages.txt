@@ -1,0 +1,1 @@
+{"query": {"pages": {"355": {"ns": 6, "pageid": 355, "revisions": [{"comment": "Interpreting the balls", "timestamp": "2011-05-26T10:48:04Z", "user": "TomF"}], "title": "File:Ball5.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

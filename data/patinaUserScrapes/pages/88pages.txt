@@ -1,0 +1,1 @@
+{"query": {"pages": {"88": {"ns": 6, "pageid": 88, "revisions": [{"timestamp": "2011-02-18T12:05:13Z", "user": "PeterB"}], "title": "File:Pete-TimeLine-SwanseaMeeting.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

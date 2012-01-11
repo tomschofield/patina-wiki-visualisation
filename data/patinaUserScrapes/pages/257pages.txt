@@ -1,0 +1,1 @@
+{"query": {"pages": {"257": {"ns": 6, "pageid": 257, "revisions": [{"timestamp": "2011-04-12T15:46:03Z", "user": "PeterB"}], "title": "File:Chronotape-lasercut01.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

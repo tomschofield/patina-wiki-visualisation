@@ -1,0 +1,1 @@
+{"query": {"pages": {"399": {"ns": 0, "pageid": 399, "revisions": [{"comment": "Created page with \"I like your entry Pete, but I'm reading it a month late. I thought this book was very insightful. --~~~~\"", "timestamp": "2011-06-22T22:10:44Z", "user": "RosamundD"}], "title": "Like"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

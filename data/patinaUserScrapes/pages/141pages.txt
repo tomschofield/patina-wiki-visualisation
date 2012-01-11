@@ -1,0 +1,1 @@
+{"query": {"pages": {"141": {"ns": 6, "pageid": 141, "revisions": [{"timestamp": "2011-03-02T12:41:16Z", "user": "MikeJ"}], "title": "File:Artifact.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

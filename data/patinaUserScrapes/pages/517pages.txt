@@ -1,0 +1,1 @@
+{"query": {"pages": {"517": {"ns": 6, "pageid": 517, "revisions": [{"timestamp": "2011-10-21T12:20:10Z", "user": "PeterB"}], "title": "File:Domino.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"586": {"ns": 6, "pageid": 586, "revisions": [{"timestamp": "2012-01-06T14:09:17Z", "user": "TomS"}], "title": "File:TestApplet.class"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

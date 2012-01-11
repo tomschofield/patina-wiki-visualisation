@@ -1,0 +1,1 @@
+{"query": {"pages": {"386": {"ns": 3, "pageid": 386, "revisions": [{"comment": "Welcome!", "timestamp": "2011-06-17T11:38:12Z", "user": "LucM"}], "title": "User talk:Saud Aljaloud"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

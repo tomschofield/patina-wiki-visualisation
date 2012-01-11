@@ -1,0 +1,1 @@
+{"query": {"pages": {"321": {"ns": 6, "pageid": 321, "revisions": [{"comment": "eye-tracking system", "timestamp": "2011-05-19T15:46:24Z", "user": "AngelikiC"}], "title": "File:DSC02392 reduced.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

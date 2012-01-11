@@ -1,0 +1,1 @@
+{"query": {"pages": {"502": {"ns": 6, "pageid": 502, "revisions": [{"timestamp": "2011-09-22T21:17:09Z", "user": "MikeF"}], "title": "File:PATINA-Year2.pptx"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

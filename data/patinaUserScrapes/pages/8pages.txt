@@ -1,0 +1,1 @@
+{"query": {"pages": {"8": {"ns": 6, "pageid": 8, "revisions": [{"comment": "uploaded a new version of &quot;[[File:Plan.xlsx]]&quot;", "timestamp": "2011-01-27T10:05:28Z", "user": "LucM"}, {"timestamp": "2011-01-24T11:21:59Z", "user": "MikeJ"}], "title": "File:Plan.xlsx"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

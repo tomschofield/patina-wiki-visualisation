@@ -1,0 +1,1 @@
+{"query": {"pages": {"516": {"ns": 6, "pageid": 516, "revisions": [{"timestamp": "2011-10-21T11:54:06Z", "user": "PeterB"}], "title": "File:Walkietalkie.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"405": {"ns": 6, "pageid": 405, "revisions": [{"comment": "Diagram of 3rd test at Itchen Abbas ball study", "timestamp": "2011-06-24T14:40:42Z", "user": "TomF"}], "title": "File:Test3diagram.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

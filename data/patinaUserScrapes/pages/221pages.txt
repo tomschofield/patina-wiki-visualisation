@@ -1,0 +1,1 @@
+{"query": {"pages": {"221": {"ns": 14, "pageid": 221, "revisions": [{"comment": "Created page with \"=Research Suit=\"", "timestamp": "2011-03-24T16:04:58Z", "user": "MikeJ"}], "title": "Category:Research"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

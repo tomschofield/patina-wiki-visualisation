@@ -1,0 +1,1 @@
+{"query": {"pages": {"271": {"ns": 6, "pageid": 271, "revisions": [{"timestamp": "2011-04-18T13:43:11Z", "user": "EnricoC"}], "title": "File:WebUI-3 6.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

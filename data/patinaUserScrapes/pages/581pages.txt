@@ -1,0 +1,1 @@
+{"query": {"pages": {"581": {"ns": 6, "pageid": 581, "revisions": [{"comment": "class for test applet", "timestamp": "2012-01-06T13:53:50Z", "user": "TomS"}], "title": "File:ColorWheel.class"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

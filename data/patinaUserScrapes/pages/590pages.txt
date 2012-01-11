@@ -1,0 +1,1 @@
+{"query": {"pages": {"590": {"ns": 6, "pageid": 590, "revisions": [{"comment": "actual class files for recent activity visualisation", "timestamp": "2012-01-06T16:03:42Z", "user": "TomS"}], "title": "File:Patina s.class"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

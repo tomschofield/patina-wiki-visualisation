@@ -1,0 +1,394 @@
+ProvenanceExample
+LucM
+/* Provenance Graph */
+2011-04-19T10:57:55Z
+LucM
+/* Provenance Graph */
+2011-04-19T09:30:53Z
+LucM
+/* Provenance Graph */
+2011-04-19T09:26:27Z
+LucM
+/* 17. Collections */
+2011-04-19T09:19:44Z
+LucM
+/* 17. Collections */
+2011-04-19T09:18:39Z
+LucM
+/* 14. Provenance Container */
+2011-04-19T09:17:44Z
+LucM
+/* 1. Resource */
+2011-04-19T09:16:34Z
+LucM
+/* 16. Time */
+2011-04-19T09:16:08Z
+LucM
+/* 14. Provenance Container */
+2011-04-19T09:15:58Z
+LucM
+/* 15. Views or Accounts */
+2011-04-19T09:14:59Z
+LucM
+/* 15. Views or Accounts */
+2011-04-19T09:13:53Z
+LucM
+/* 15. Views or Accounts */
+2011-04-19T09:13:32Z
+LucM
+/* 15. Views or Accounts */
+2011-04-19T09:13:01Z
+LucM
+/* 14. Provenance Container */
+2011-04-19T09:12:27Z
+LucM
+/* 12. Participation */
+2011-04-19T09:09:46Z
+LucM
+/* 11. Version */
+2011-04-19T09:08:16Z
+LucM
+/* 10. Ordering of Processes */
+2011-04-19T09:07:20Z
+LucM
+/* 9. Use */
+2011-04-19T09:05:39Z
+LucM
+/* 8. Generation */
+2011-04-19T09:05:28Z
+LucM
+/* 9. Use */
+2011-04-19T09:05:04Z
+LucM
+/* 9. Use */
+2011-04-19T09:03:55Z
+LucM
+/* 8. Generation */
+2011-04-19T09:03:11Z
+LucM
+/* 8. Generation */
+2011-04-19T09:01:51Z
+LucM
+/* 8. Generation */
+2011-04-19T08:58:55Z
+LucM
+/* 8. Generation */
+2011-04-19T08:56:43Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:53:24Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:52:50Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:47:53Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:46:50Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:46:08Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:45:54Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:45:17Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:44:18Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:43:56Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:40:09Z
+LucM
+/* 7. Derivation */
+2011-04-19T08:39:38Z
+LucM
+/* 6. Location */
+2011-04-19T08:34:34Z
+LucM
+/* 5. Role */
+2011-04-19T08:29:52Z
+LucM
+/* 5. Role */
+2011-04-19T08:27:57Z
+LucM
+/* 4. Agent */
+2011-04-19T08:26:25Z
+LucM
+/* 3. Recipe link */
+2011-04-19T08:24:28Z
+LucM
+/* 3. Recipe link */
+2011-04-19T08:20:32Z
+LucM
+/* 3. Recipe link */
+2011-04-19T08:19:41Z
+LucM
+/* 3. Recipe link */
+2011-04-19T08:16:45Z
+LucM
+/* 2. Process execution */
+2011-04-19T08:16:21Z
+LucM
+/* 2. Process execution */
+2011-04-19T08:15:09Z
+LucM
+/* 2. Process execution */
+2011-04-19T08:14:33Z
+LucM
+/* 2. Process execution */
+2011-04-19T08:14:03Z
+LucM
+/* 2. Process execution */
+2011-04-19T08:13:48Z
+LucM
+/* 1. Resource */
+2011-04-19T08:11:59Z
+LucM
+/* Provenance Terminology and Example */
+2011-04-19T08:05:22Z
+LucM
+/* Provenance Example */
+2011-04-19T08:02:37Z
+LucM
+/* Data Journalism Example */
+2011-04-19T08:01:19Z
+LucM
+/* 1. Resource */
+2011-04-19T08:00:56Z
+LucM
+/* Provenance Concepts from the Charter */
+2011-04-19T07:59:54Z
+LucM
+/* Provenance Graph */
+2011-04-19T07:59:38Z
+LucM
+/* Provenance Example */
+2011-04-19T07:51:13Z
+LucM
+/* 7. Derivation */
+2011-04-18T22:33:58Z
+LucM
+/* 7. Derivation */
+2011-04-18T22:32:57Z
+LucM
+/* 7. Derivation */
+2011-04-18T22:31:56Z
+LucM
+/* 7. Derivation */
+2011-04-18T22:31:41Z
+LucM
+/* 5. Role */
+2011-04-18T22:31:06Z
+LucM
+/* 5. Role */
+2011-04-18T22:30:52Z
+LucM
+/* 4. Agent */
+2011-04-18T22:30:12Z
+LucM
+/* 4. Agent */
+2011-04-18T22:29:33Z
+LucM
+/* 1. Resource */
+2011-04-18T22:29:16Z
+LucM
+/* 2. Process execution */
+2011-04-18T22:29:02Z
+LucM
+/* 3. Recipe link */
+2011-04-18T22:28:49Z
+LucM
+/* 3. Recipe link */
+2011-04-18T22:28:25Z
+LucM
+/* 2. Process execution */
+2011-04-18T22:27:56Z
+LucM
+/* 2. Process execution */
+2011-04-18T22:27:20Z
+LucM
+/* 1. Resource */
+2011-04-18T22:26:34Z
+LucM
+/* 17. Collections */
+2011-04-18T22:23:58Z
+LucM
+/* 1. Resource */
+2011-04-18T22:22:58Z
+LucM
+/* 1. Resource */
+2011-04-18T22:22:13Z
+LucM
+/* Provenance Example */
+2011-04-18T22:21:37Z
+LucM
+/* 17. Collections */
+2011-04-18T22:20:17Z
+LucM
+/* 16. Time */
+2011-04-18T22:16:44Z
+LucM
+/* 9. Use */
+2011-04-18T22:11:59Z
+LucM
+/* 9. Use */
+2011-04-18T22:10:25Z
+LucM
+/* 15. Views or Accounts */
+2011-04-18T22:09:46Z
+LucM
+/* 14. Provenance Container */
+2011-04-18T22:02:18Z
+LucM
+/* 5. Role */
+2011-04-18T21:55:01Z
+LucM
+/* 13. Control */
+2011-04-18T21:53:32Z
+LucM
+/* 13. Control */
+2011-04-18T21:50:44Z
+LucM
+/* 12. Participation */
+2011-04-18T21:47:21Z
+LucM
+/* 11. Version */
+2011-04-18T21:43:41Z
+LucM
+/* 10. Ordering of Processes */
+2011-04-18T21:38:17Z
+LucM
+/* 10. Ordering of Processes */
+2011-04-18T21:37:45Z
+LucM
+/* 10. Ordering of Processes */
+2011-04-18T21:37:13Z
+LucM
+/* 9. Use */
+2011-04-18T21:27:25Z
+LucM
+/* 9. Use */
+2011-04-18T21:24:03Z
+LucM
+/* 8. Generation */
+2011-04-18T21:21:03Z
+LucM
+/* 8. Generation */
+2011-04-18T21:19:26Z
+LucM
+/* 9. Use */
+2011-04-18T21:18:44Z
+LucM
+/* 8. Generation */
+2011-04-18T21:16:22Z
+LucM
+/* 8. Generation */
+2011-04-18T21:01:51Z
+LucM
+/* 8. Generation */
+2011-04-18T21:01:10Z
+LucM
+/* 8. Generation */
+2011-04-18T21:00:50Z
+LucM
+/* 2. Process execution */
+2011-04-18T20:53:23Z
+LucM
+/* 8. Generation */
+2011-04-18T20:51:29Z
+LucM
+/* 8. Generation */
+2011-04-18T20:50:16Z
+LucM
+/* 7. Derivation */
+2011-04-18T20:44:07Z
+LucM
+/* 7. Derivation */
+2011-04-18T20:42:50Z
+LucM
+/* 7. Derivation */
+2011-04-18T20:41:29Z
+LucM
+/* 7. Derivation */
+2011-04-18T20:35:21Z
+LucM
+/* 7. Derivation */
+2011-04-18T20:29:58Z
+LucM
+/* 6. Location */
+2011-04-18T20:12:10Z
+LucM
+/* 5. Role */
+2011-04-18T20:10:58Z
+LucM
+/* 5. Role */
+2011-04-18T19:19:20Z
+LucM
+/* 4. Agent */
+2011-04-18T19:15:17Z
+LucM
+/* 4. Agent */
+2011-04-18T19:14:07Z
+LucM
+/* 4. Agent */
+2011-04-18T17:51:09Z
+LucM
+/* 4. Agent */
+2011-04-18T17:50:14Z
+LucM
+/* 3. Recipe link */
+2011-04-18T17:44:05Z
+LucM
+/* 2. Process execution */
+2011-04-18T17:39:35Z
+LucM
+/* 17. Collections */
+2011-04-18T17:27:36Z
+LucM
+/* 16. Time */
+2011-04-18T17:27:23Z
+LucM
+/* 15. Views or Accounts */
+2011-04-18T17:27:10Z
+LucM
+/* 14. Provenance Container */
+2011-04-18T17:25:43Z
+LucM
+/* 13. Control */
+2011-04-18T17:24:58Z
+LucM
+/* 9. Use */
+2011-04-18T17:24:33Z
+LucM
+/* 2. Process execution */
+2011-04-18T17:08:29Z
+LucM
+/* 1. Resource */
+2011-04-18T17:06:34Z
+LucM
+/* Provenance Concepts from the Charter */
+2011-04-18T17:06:04Z
+LucM
+/* Provenance Concepts from the Charter */
+2011-04-18T17:04:22Z
+LucM
+/* Provenance Concepts from the Charter */
+2011-04-18T17:04:03Z
+LucM
+/* Provenance Concepts from the Charter */
+2011-04-18T17:02:00Z
+LucM
+
+2011-04-18T16:11:33Z
+LucM
+/* Data Journalism Example */
+2011-04-18T16:04:31Z
+LucM
+Created page with "= Provenance Example =  The purpose of this page is to identify a working scenario and illustrate key concepts identified in the Provenance WG charter.    == Data Journalism Exam..."
+2011-04-18T16:03:43Z

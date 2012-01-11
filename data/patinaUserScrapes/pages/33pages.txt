@@ -1,0 +1,1 @@
+{"query": {"pages": {"33": {"ns": 6, "pageid": 33, "revisions": [{"comment": "Shows a sketcvh example of a design card from teh concept suit", "timestamp": "2011-01-31T11:13:32Z", "user": "MartynD"}], "title": "File:PlayingCardExample2.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"437": {"ns": 6, "pageid": 437, "revisions": [{"comment": "NoteDrop Intervention Images", "timestamp": "2011-07-05T10:44:40Z", "user": "EmmaT"}], "title": "File:Notedrop1.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

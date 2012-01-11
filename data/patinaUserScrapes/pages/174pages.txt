@@ -1,0 +1,1 @@
+{"query": {"pages": {"174": {"ns": 6, "pageid": 174, "revisions": [{"comment": "Intervention version 2.", "timestamp": "2011-03-16T19:34:46Z", "user": "EmmaT"}], "title": "File:Emmav2.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

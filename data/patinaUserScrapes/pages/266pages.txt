@@ -1,0 +1,1 @@
+{"query": {"pages": {"266": {"ns": 6, "pageid": 266, "revisions": [{"comment": "uploaded a new version of &quot;[[File:WebUI-3 1.png]]&quot;", "timestamp": "2011-06-20T21:40:22Z", "user": "EnricoC"}, {"timestamp": "2011-04-18T13:42:36Z", "user": "EnricoC"}], "title": "File:WebUI-3 1.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

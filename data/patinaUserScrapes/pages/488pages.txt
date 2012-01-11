@@ -1,0 +1,1 @@
+{"query": {"pages": {"488": {"ns": 6, "pageid": 488, "revisions": [{"timestamp": "2011-09-06T13:55:43Z", "user": "MikeF"}], "title": "File:Chronotape-final-submitted.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"371": {"ns": 6, "pageid": 371, "revisions": [{"comment": "Notetaking card.", "timestamp": "2011-06-05T13:26:05Z", "user": "TomF"}], "title": "File:Notetaking.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

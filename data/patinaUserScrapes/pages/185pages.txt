@@ -1,0 +1,1 @@
+{"query": {"pages": {"185": {"ns": 0, "pageid": 185, "revisions": [{"comment": "moved [[Genealogy work practice v1]] to [[Genealogy work practice v2]]: Next version", "timestamp": "2011-03-17T16:02:42Z", "user": "MadelineB"}], "title": "Genealogy work practice v1"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

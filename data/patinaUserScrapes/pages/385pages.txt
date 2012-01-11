@@ -1,0 +1,1 @@
+{"query": {"pages": {"385": {"ns": 2, "pageid": 385, "revisions": [{"comment": "Creating user page with biography of new user.", "timestamp": "2011-06-17T11:38:12Z", "user": "LucM"}], "title": "User:Saud Aljaloud"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

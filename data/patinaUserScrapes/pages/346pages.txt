@@ -1,0 +1,1 @@
+{"query": {"pages": {"346": {"ns": 6, "pageid": 346, "revisions": [{"comment": "Using the total station", "timestamp": "2011-05-25T18:36:18Z", "user": "TomF"}], "title": "File:Pe totalstation2.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

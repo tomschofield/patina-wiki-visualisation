@@ -1,0 +1,1 @@
+{"query": {"pages": {"226": {"ns": 6, "pageid": 226, "revisions": [{"comment": "A paper for discussion", "timestamp": "2011-04-05T15:46:57Z", "user": "RosamundD"}], "title": "File:The Time-Space of Research.doc"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

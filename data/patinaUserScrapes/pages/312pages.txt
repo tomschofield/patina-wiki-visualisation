@@ -1,0 +1,1 @@
+{"query": {"pages": {"312": {"ns": 6, "pageid": 312, "revisions": [{"timestamp": "2011-05-09T15:48:21Z", "user": "PeterB"}], "title": "File:Mockup02-jigsaw.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"497": {"ns": 1, "pageid": 497, "revisions": [{"comment": "moved [[Talk:Deliverables]] to [[Talk:DeliverablesYear1]]", "timestamp": "2011-09-22T20:40:40Z", "user": "MikeF"}], "title": "Talk:Deliverables"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

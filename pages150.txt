@@ -1,0 +1,16 @@
+Card:Dependency
+MikeJ
+
+2011-03-24T15:50:38Z
+MikeJ
+
+2011-03-24T15:43:05Z
+PeterB
+
+2011-03-24T15:30:35Z
+MikeJ
+
+2011-03-02T16:52:31Z
+MikeJ
+Created page with "==Dependency==  ===Description===  Provenance requires the representation of dependencies, capturing causal relationships. These include those for processes (wasTriggeredBy, wasC..."
+2011-03-02T16:49:39Z

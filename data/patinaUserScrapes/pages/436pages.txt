@@ -1,0 +1,1 @@
+{"query": {"pages": {"436": {"ns": 6, "pageid": 436, "revisions": [{"timestamp": "2011-07-04T13:56:35Z", "user": "DannyW"}], "title": "File:Coherent1.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

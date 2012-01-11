@@ -1,0 +1,1740 @@
+1
+
+Main Page
+2011-01-20T11:36:50Z
+1
+
+Main Page
+2011-01-20T11:37:10Z
+2
+Created page with " ==Deliverables (version v1)==  [[DeliverableAPIv1 | Deliverable API v1]]  [[DeliverableOntologyv1| Deliverable Ontology v1]]  [[DeliverableWorkPracticev1| Deliverable Work Pract..."
+DeliverablesVersion1
+2011-01-20T11:41:51Z
+3
+Created page with "i am discussing"
+Talk:DeliverablesVersion1
+2011-01-20T11:47:55Z
+2
+moved [[Deliverables]] to [[DeliverablesVersion1]]
+DeliverablesVersion1
+2011-01-20T13:41:22Z
+6
+moved [[Deliverables]] to [[DeliverablesVersion1]]
+DeliverablesYear1
+2011-01-20T13:41:22Z
+3
+moved [[Talk:Deliverables]] to [[Talk:DeliverablesVersion1]]
+Talk:DeliverablesVersion1
+2011-01-20T13:41:23Z
+7
+moved [[Talk:Deliverables]] to [[Talk:DeliverablesVersion1]]
+Talk:DeliverablesYear1
+2011-01-20T13:41:23Z
+2
+
+DeliverablesVersion1
+2011-01-24T14:26:50Z
+2
+/* Deliverables (version v1) */
+DeliverablesVersion1
+2011-01-24T14:27:13Z
+2
+/* Deliverables (version v1) */
+DeliverablesVersion1
+2011-01-24T14:28:04Z
+2
+/* Deliverables (version v1) */
+DeliverablesVersion1
+2011-01-24T14:28:45Z
+2
+
+DeliverablesVersion1
+2011-01-24T14:30:20Z
+6
+
+DeliverablesYear1
+2011-01-24T14:32:39Z
+2
+/* Deliverables (version v1) */
+DeliverablesVersion1
+2011-01-24T14:32:56Z
+6
+
+DeliverablesYear1
+2011-01-24T14:33:36Z
+2
+
+DeliverablesVersion1
+2011-01-24T14:34:06Z
+6
+
+DeliverablesYear1
+2011-01-24T15:01:49Z
+2
+
+DeliverablesVersion1
+2011-01-24T15:02:48Z
+2
+
+DeliverablesVersion1
+2011-01-24T15:03:24Z
+21
+Created page with " == The PATINA Ontology ==  The purpose of this ontology is ..."
+PatinaOntology
+2011-01-24T15:03:57Z
+2
+
+DeliverablesVersion1
+2011-01-24T15:06:28Z
+21
+
+PatinaOntology
+2011-01-24T15:10:10Z
+2
+
+DeliverablesVersion1
+2011-01-27T10:03:33Z
+8
+uploaded a new version of &quot;[[File:Plan.xlsx]]&quot;
+File:Plan.xlsx
+2011-01-27T10:05:28Z
+2
+/* Deliverables (version v1) */
+DeliverablesVersion1
+2011-01-27T10:24:41Z
+1
+
+Main Page
+2011-01-27T10:32:02Z
+1
+
+Main Page
+2011-01-27T10:32:30Z
+1
+
+Main Page
+2011-01-27T10:33:13Z
+47
+Created page with " ==Interventions v1==  [[DeliverableIntervention1v1| D6.1.1 Deliverable Intervention 1 (by Pete) v1]]  [[DeliverableIntervention2v1| D6.2.1 Deliverable Intervention 2 (by Emma) v..."
+DeliverableInterventionv1
+2011-02-10T10:36:51Z
+48
+Creating user page with biography of new user.
+User:GraemeE
+2011-02-10T10:37:37Z
+49
+Welcome!
+User talk:GraemeE
+2011-02-10T10:37:37Z
+1
+
+Main Page
+2011-02-10T12:38:22Z
+50
+Created page with "== Teleconference Minutes=="
+Minutes
+2011-02-10T12:40:41Z
+50
+
+Minutes
+2011-02-10T12:41:29Z
+51
+Created page with "==Minutes of the teleconference on 2010-02-10==  Agenda 1. Action review 2. Deliverables review  Participants: Matt, Graeme, Rosamund, Luc  1. Action review  None previously reco..."
+Minutes-2010-02-10
+2011-02-10T12:52:33Z
+51
+
+Minutes-2010-02-10
+2011-02-10T12:53:46Z
+51
+
+Minutes-2010-02-10
+2011-02-10T12:55:06Z
+51
+
+Minutes-2010-02-10
+2011-02-10T12:56:17Z
+51
+
+Minutes-2010-02-10
+2011-02-10T12:59:08Z
+50
+
+Minutes
+2011-02-10T13:03:13Z
+57
+Created page with " == Archaeology Intervention ==  === Vision ===  * Supporting the archaeology process of interpretation building around physical artifacts  * Works on the hypothesis that interpr..."
+DeliverableIntervention3v1
+2011-02-10T17:16:02Z
+57
+
+DeliverableIntervention3v1
+2011-02-10T17:16:38Z
+57
+/* Vision */
+DeliverableIntervention3v1
+2011-02-15T12:57:42Z
+62
+/* Infrastructure: Linked Data(*)  */ new section
+Talk:DeliverableIntervention3v1
+2011-02-15T13:05:36Z
+62
+/* Infrastructure: Linked Data(*) */
+Talk:DeliverableIntervention3v1
+2011-02-15T13:05:51Z
+70
+Created page with "Adding an annotation to a person should return a new URI (like it was done for the skeleton). And the new person should be an annotated version of the original one.  Luc"
+Talk:DeliverableAPIv1
+2011-02-15T17:06:28Z
+70
+
+Talk:DeliverableAPIv1
+2011-02-15T17:06:54Z
+47
+
+DeliverableInterventionv1
+2011-02-16T16:52:32Z
+62
+/* Physical Intervention: Boxed Awareness  */ new section
+Talk:DeliverableIntervention3v1
+2011-02-16T17:56:08Z
+2
+/* Deliverables (version v1) */
+DeliverablesVersion1
+2011-02-17T09:58:58Z
+2
+
+DeliverablesVersion1
+2011-02-17T10:00:03Z
+2
+
+DeliverablesVersion1
+2011-02-17T10:02:09Z
+2
+
+DeliverablesVersion1
+2011-02-17T10:02:29Z
+86
+/* which ethics approval */ new section
+Talk:DeliverableEthicsApprovalv1
+2011-02-17T14:19:22Z
+86
+/* which ethics approval */
+Talk:DeliverableEthicsApprovalv1
+2011-02-17T14:19:33Z
+87
+Created page with "Hey,   That's me!  --~~~~"
+User:LucM
+2011-02-17T14:20:05Z
+6
+
+DeliverablesYear1
+2011-02-21T08:49:18Z
+97
+Created page with "=Deliverables (version v2)=   We have identified the following deliverables.  [[DeliverableEthicsApprovalv1| D1.1 Ethics approval]]  [[DeliverableSite1Identificationv1| D2.2a Sit..."
+DeliverablesVersion2
+2011-02-21T08:50:07Z
+2
+
+DeliverablesVersion1
+2011-02-21T08:54:55Z
+2
+
+DeliverablesVersion1
+2011-02-21T08:59:07Z
+98
+Created page with " No deliverable due in version 1."
+DeliverableFrameworkLinkv1
+2011-02-21T09:02:04Z
+2
+
+DeliverablesVersion1
+2011-02-21T09:02:57Z
+2
+Protected "[[DeliverablesVersion1]]": Version freeze ([edit=sysop] (indefinite) [move=sysop] (indefinite))
+DeliverablesVersion1
+2011-02-21T09:04:34Z
+63
+
+DeliverableWorkPracticev1
+2011-02-21T10:16:40Z
+63
+
+DeliverableWorkPracticev1
+2011-02-21T10:17:23Z
+63
+
+DeliverableWorkPracticev1
+2011-02-21T10:20:02Z
+2
+
+DeliverablesVersion1
+2011-02-21T10:21:46Z
+2
+
+DeliverablesVersion1
+2011-02-21T16:14:57Z
+93
+/* timeline: is it the right metaphore? */ new section
+Talk:DeliverableIntervention1v1
+2011-02-22T09:13:15Z
+93
+/* timeline: is it the right metaphore? */
+Talk:DeliverableIntervention1v1
+2011-02-22T09:14:24Z
+93
+/* timeline: is it the right metaphore? */
+Talk:DeliverableIntervention1v1
+2011-02-22T09:18:41Z
+62
+/* Physical Intervention: Boxed Awareness */
+Talk:DeliverableIntervention3v1
+2011-02-22T09:34:07Z
+85
+
+Talk:DeliverableIntervention2v1
+2011-02-22T09:51:01Z
+85
+
+Talk:DeliverableIntervention2v1
+2011-02-22T09:53:01Z
+85
+/* Research Process/Input only? */
+Talk:DeliverableIntervention2v1
+2011-02-22T09:53:44Z
+113
+Created page with "==Minutes of the teleconference on 2010-02-10==  ===Agenda===  1. Action review  2. March 7th meeting  3. Deliverables review  ===Participants===  Matt, Graeme, Rosamund, Luc  ==..."
+Minutes-2010-02-24
+2011-02-23T22:01:26Z
+113
+
+Minutes-2010-02-24
+2011-02-23T22:02:01Z
+113
+
+Minutes-2010-02-24
+2011-02-23T22:05:22Z
+114
+Created page with "==Networking== Potentially, this seems to be problematic. Given this, is this the right choice of location for our first deployment?   --~~~~"
+Talk:DeliverableSite1Identificationv1
+2011-02-24T09:51:45Z
+113
+
+Minutes-2010-02-24
+2011-02-24T09:59:06Z
+113
+
+Minutes-2010-02-24
+2011-02-24T10:06:46Z
+113
+/* Actions review */
+Minutes-2010-02-24
+2011-02-24T10:11:24Z
+113
+/* Actions review */
+Minutes-2010-02-24
+2011-02-24T10:16:33Z
+113
+/* Actions review */
+Minutes-2010-02-24
+2011-02-24T10:20:30Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:22:09Z
+113
+/* Participants */
+Minutes-2010-02-24
+2011-02-24T10:22:48Z
+113
+/* Participants */
+Minutes-2010-02-24
+2011-02-24T10:23:13Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:24:42Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:26:41Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:27:39Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:28:38Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:32:05Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:36:28Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:36:45Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:44:35Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T10:53:06Z
+113
+/* March 7th meeting */
+Minutes-2010-02-24
+2011-02-24T11:00:50Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T11:07:41Z
+113
+/* Participants */
+Minutes-2010-02-24
+2011-02-24T11:12:41Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T11:25:29Z
+113
+/* Deliverables review */
+Minutes-2010-02-24
+2011-02-24T11:27:29Z
+113
+/* Actions */
+Minutes-2010-02-24
+2011-02-24T11:28:15Z
+113
+/* Deliverables review */
+Minutes-2010-02-24
+2011-02-24T11:28:30Z
+113
+/* Deliverables review */
+Minutes-2010-02-24
+2011-02-24T11:29:00Z
+113
+/* March 7th meeting */
+Minutes-2010-02-24
+2011-02-24T11:29:26Z
+93
+/* timeline: is it the right metaphore? */
+Talk:DeliverableIntervention1v1
+2011-02-24T12:12:29Z
+120
+Terminology layering vs versioning
+Talk:DeliverableIntervention3v2
+2011-02-28T08:24:03Z
+120
+
+Talk:DeliverableIntervention3v2
+2011-02-28T08:24:17Z
+120
+/* Benefits of the note structure */ new section
+Talk:DeliverableIntervention3v2
+2011-02-28T08:38:30Z
+120
+
+Talk:DeliverableIntervention3v2
+2011-02-28T08:39:29Z
+120
+/* Benefits of the note structure */
+Talk:DeliverableIntervention3v2
+2011-02-28T08:40:12Z
+120
+/* Intervention outline */ new section
+Talk:DeliverableIntervention3v2
+2011-02-28T08:45:15Z
+120
+
+Talk:DeliverableIntervention3v2
+2011-02-28T08:45:34Z
+120
+/* Intervention outline */
+Talk:DeliverableIntervention3v2
+2011-02-28T08:49:35Z
+120
+/* keywords */ new section
+Talk:DeliverableIntervention3v2
+2011-02-28T08:57:36Z
+120
+/* Mobile vs Web based UIs */ new section
+Talk:DeliverableIntervention3v2
+2011-02-28T09:03:00Z
+120
+/* Terminology: layering vs versioning */
+Talk:DeliverableIntervention3v2
+2011-03-01T16:58:54Z
+120
+/* Intervention outline */
+Talk:DeliverableIntervention3v2
+2011-03-01T17:05:30Z
+120
+/* Mobile vs Web based UIs */
+Talk:DeliverableIntervention3v2
+2011-03-01T17:13:19Z
+120
+/* Terminology: layering vs versioning */
+Talk:DeliverableIntervention3v2
+2011-03-01T17:19:33Z
+120
+/* Timing vs Ordering */ new section
+Talk:DeliverableIntervention3v2
+2011-03-01T21:57:29Z
+120
+/* Terminology: layering vs versioning */
+Talk:DeliverableIntervention3v2
+2011-03-01T22:01:15Z
+120
+/* Terminology: layering vs versioning */
+Talk:DeliverableIntervention3v2
+2011-03-01T22:02:20Z
+120
+/* Terminology: layering vs versioning */
+Talk:DeliverableIntervention3v2
+2011-03-01T22:07:16Z
+120
+/* Terminology: layering vs versioning */
+Talk:DeliverableIntervention3v2
+2011-03-01T22:12:01Z
+120
+/* IRC vs Wiki? */ new section
+Talk:DeliverableIntervention3v2
+2011-03-02T08:29:01Z
+120
+/* IRC vs Wiki? */
+Talk:DeliverableIntervention3v2
+2011-03-02T08:38:26Z
+120
+/* IRC vs Wiki? */
+Talk:DeliverableIntervention3v2
+2011-03-02T08:39:34Z
+120
+/* IRC vs Wiki? */
+Talk:DeliverableIntervention3v2
+2011-03-02T08:58:03Z
+120
+/* IRC vs Wiki? */
+Talk:DeliverableIntervention3v2
+2011-03-02T08:58:30Z
+120
+/* IRC vs Wiki? */
+Talk:DeliverableIntervention3v2
+2011-03-02T09:01:21Z
+85
+/* Thoughts on output */
+Talk:DeliverableIntervention2v1
+2011-03-02T09:22:05Z
+87
+
+User:LucM
+2011-04-18T15:59:57Z
+87
+
+User:LucM
+2011-04-18T16:00:18Z
+280
+Created page with "= Provenance Example =  The purpose of this page is to identify a working scenario and illustrate key concepts identified in the Provenance WG charter.    == Data Journalism Exam..."
+ProvenanceExample
+2011-04-18T16:03:43Z
+280
+/* Data Journalism Example */
+ProvenanceExample
+2011-04-18T16:04:31Z
+280
+
+ProvenanceExample
+2011-04-18T16:11:33Z
+280
+/* Provenance Concepts from the Charter */
+ProvenanceExample
+2011-04-18T17:02:00Z
+280
+/* Provenance Concepts from the Charter */
+ProvenanceExample
+2011-04-18T17:04:03Z
+280
+/* Provenance Concepts from the Charter */
+ProvenanceExample
+2011-04-18T17:04:22Z
+280
+/* Provenance Concepts from the Charter */
+ProvenanceExample
+2011-04-18T17:06:04Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-18T17:06:34Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-18T17:08:29Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-18T17:24:33Z
+280
+/* 13. Control */
+ProvenanceExample
+2011-04-18T17:24:58Z
+280
+/* 14. Provenance Container */
+ProvenanceExample
+2011-04-18T17:25:43Z
+280
+/* 15. Views or Accounts */
+ProvenanceExample
+2011-04-18T17:27:10Z
+280
+/* 16. Time */
+ProvenanceExample
+2011-04-18T17:27:23Z
+280
+/* 17. Collections */
+ProvenanceExample
+2011-04-18T17:27:36Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-18T17:39:35Z
+280
+/* 3. Recipe link */
+ProvenanceExample
+2011-04-18T17:44:05Z
+280
+/* 4. Agent */
+ProvenanceExample
+2011-04-18T17:50:14Z
+280
+/* 4. Agent */
+ProvenanceExample
+2011-04-18T17:51:09Z
+280
+/* 4. Agent */
+ProvenanceExample
+2011-04-18T19:14:07Z
+280
+/* 4. Agent */
+ProvenanceExample
+2011-04-18T19:15:17Z
+280
+/* 5. Role */
+ProvenanceExample
+2011-04-18T19:19:20Z
+280
+/* 5. Role */
+ProvenanceExample
+2011-04-18T20:10:58Z
+280
+/* 6. Location */
+ProvenanceExample
+2011-04-18T20:12:10Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T20:29:58Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T20:35:21Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T20:41:29Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T20:42:50Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T20:44:07Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T20:50:16Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T20:51:29Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-18T20:53:23Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T21:00:50Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T21:01:10Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T21:01:51Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T21:16:22Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-18T21:18:44Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T21:19:26Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-18T21:21:03Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-18T21:24:03Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-18T21:27:25Z
+280
+/* 10. Ordering of Processes */
+ProvenanceExample
+2011-04-18T21:37:13Z
+280
+/* 10. Ordering of Processes */
+ProvenanceExample
+2011-04-18T21:37:45Z
+280
+/* 10. Ordering of Processes */
+ProvenanceExample
+2011-04-18T21:38:17Z
+280
+/* 11. Version */
+ProvenanceExample
+2011-04-18T21:43:41Z
+280
+/* 12. Participation */
+ProvenanceExample
+2011-04-18T21:47:21Z
+280
+/* 13. Control */
+ProvenanceExample
+2011-04-18T21:50:44Z
+280
+/* 13. Control */
+ProvenanceExample
+2011-04-18T21:53:32Z
+280
+/* 5. Role */
+ProvenanceExample
+2011-04-18T21:55:01Z
+280
+/* 14. Provenance Container */
+ProvenanceExample
+2011-04-18T22:02:18Z
+280
+/* 15. Views or Accounts */
+ProvenanceExample
+2011-04-18T22:09:46Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-18T22:10:25Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-18T22:11:59Z
+280
+/* 16. Time */
+ProvenanceExample
+2011-04-18T22:16:44Z
+280
+/* 17. Collections */
+ProvenanceExample
+2011-04-18T22:20:17Z
+280
+/* Provenance Example */
+ProvenanceExample
+2011-04-18T22:21:37Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-18T22:22:13Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-18T22:22:58Z
+280
+/* 17. Collections */
+ProvenanceExample
+2011-04-18T22:23:58Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-18T22:26:34Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-18T22:27:20Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-18T22:27:56Z
+280
+/* 3. Recipe link */
+ProvenanceExample
+2011-04-18T22:28:25Z
+280
+/* 3. Recipe link */
+ProvenanceExample
+2011-04-18T22:28:49Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-18T22:29:02Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-18T22:29:16Z
+280
+/* 4. Agent */
+ProvenanceExample
+2011-04-18T22:29:33Z
+280
+/* 4. Agent */
+ProvenanceExample
+2011-04-18T22:30:12Z
+280
+/* 5. Role */
+ProvenanceExample
+2011-04-18T22:30:52Z
+280
+/* 5. Role */
+ProvenanceExample
+2011-04-18T22:31:06Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T22:31:41Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T22:31:56Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T22:32:57Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-18T22:33:58Z
+280
+/* Provenance Example */
+ProvenanceExample
+2011-04-19T07:51:13Z
+280
+/* Provenance Graph */
+ProvenanceExample
+2011-04-19T07:59:38Z
+280
+/* Provenance Concepts from the Charter */
+ProvenanceExample
+2011-04-19T07:59:54Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-19T08:00:56Z
+280
+/* Data Journalism Example */
+ProvenanceExample
+2011-04-19T08:01:19Z
+280
+/* Provenance Example */
+ProvenanceExample
+2011-04-19T08:02:37Z
+280
+/* Provenance Terminology and Example */
+ProvenanceExample
+2011-04-19T08:05:22Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-19T08:11:59Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-19T08:13:48Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-19T08:14:03Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-19T08:14:33Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-19T08:15:09Z
+280
+/* 2. Process execution */
+ProvenanceExample
+2011-04-19T08:16:21Z
+280
+/* 3. Recipe link */
+ProvenanceExample
+2011-04-19T08:16:45Z
+280
+/* 3. Recipe link */
+ProvenanceExample
+2011-04-19T08:19:41Z
+280
+/* 3. Recipe link */
+ProvenanceExample
+2011-04-19T08:20:32Z
+280
+/* 3. Recipe link */
+ProvenanceExample
+2011-04-19T08:24:28Z
+280
+/* 4. Agent */
+ProvenanceExample
+2011-04-19T08:26:25Z
+280
+/* 5. Role */
+ProvenanceExample
+2011-04-19T08:27:57Z
+280
+/* 5. Role */
+ProvenanceExample
+2011-04-19T08:29:52Z
+280
+/* 6. Location */
+ProvenanceExample
+2011-04-19T08:34:34Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:39:38Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:40:09Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:43:56Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:44:18Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:45:17Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:45:54Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:46:08Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:46:50Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:47:53Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:52:50Z
+280
+/* 7. Derivation */
+ProvenanceExample
+2011-04-19T08:53:24Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-19T08:56:43Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-19T08:58:55Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-19T09:01:51Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-19T09:03:11Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-19T09:03:55Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-19T09:05:04Z
+280
+/* 8. Generation */
+ProvenanceExample
+2011-04-19T09:05:28Z
+280
+/* 9. Use */
+ProvenanceExample
+2011-04-19T09:05:39Z
+280
+/* 10. Ordering of Processes */
+ProvenanceExample
+2011-04-19T09:07:20Z
+280
+/* 11. Version */
+ProvenanceExample
+2011-04-19T09:08:16Z
+280
+/* 12. Participation */
+ProvenanceExample
+2011-04-19T09:09:46Z
+280
+/* 14. Provenance Container */
+ProvenanceExample
+2011-04-19T09:12:27Z
+280
+/* 15. Views or Accounts */
+ProvenanceExample
+2011-04-19T09:13:01Z
+280
+/* 15. Views or Accounts */
+ProvenanceExample
+2011-04-19T09:13:32Z
+280
+/* 15. Views or Accounts */
+ProvenanceExample
+2011-04-19T09:13:53Z
+280
+/* 15. Views or Accounts */
+ProvenanceExample
+2011-04-19T09:14:59Z
+280
+/* 14. Provenance Container */
+ProvenanceExample
+2011-04-19T09:15:58Z
+280
+/* 16. Time */
+ProvenanceExample
+2011-04-19T09:16:08Z
+280
+/* 1. Resource */
+ProvenanceExample
+2011-04-19T09:16:34Z
+280
+/* 14. Provenance Container */
+ProvenanceExample
+2011-04-19T09:17:44Z
+280
+/* 17. Collections */
+ProvenanceExample
+2011-04-19T09:18:39Z
+280
+/* 17. Collections */
+ProvenanceExample
+2011-04-19T09:19:44Z
+280
+/* Provenance Graph */
+ProvenanceExample
+2011-04-19T09:26:27Z
+280
+/* Provenance Graph */
+ProvenanceExample
+2011-04-19T09:30:53Z
+285
+
+File:ProvenanceGraph.pdf
+2011-04-19T09:32:22Z
+280
+/* Provenance Graph */
+ProvenanceExample
+2011-04-19T10:57:55Z
+87
+
+User:LucM
+2011-04-19T12:35:15Z
+291
+Created page with "= Provenance Terminology and Example =  The purpose of this page is to ''illustrate'' key concepts identified in the Provenance WG charter by means of an example, and propose ini..."
+ProvenanceExample2
+2011-04-19T12:43:23Z
+291
+/* 3. Recipe link */
+ProvenanceExample2
+2011-04-19T12:49:51Z
+291
+/* 4. Agent */
+ProvenanceExample2
+2011-04-19T12:50:50Z
+291
+/* 5. Role */
+ProvenanceExample2
+2011-04-19T12:53:14Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T12:54:30Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T14:33:28Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T14:33:42Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T14:35:36Z
+291
+/* 8. Generation */
+ProvenanceExample2
+2011-04-19T14:38:05Z
+291
+/* 9. Use */
+ProvenanceExample2
+2011-04-19T15:26:11Z
+291
+/* 9. Use */
+ProvenanceExample2
+2011-04-19T15:26:59Z
+291
+/* 8. Generation */
+ProvenanceExample2
+2011-04-19T15:27:27Z
+291
+/* 10. Ordering of Processes */
+ProvenanceExample2
+2011-04-19T15:30:13Z
+291
+/* 10. Ordering of Processes */
+ProvenanceExample2
+2011-04-19T15:31:09Z
+291
+/* 11. Version */
+ProvenanceExample2
+2011-04-19T15:31:36Z
+291
+/* 13. Control */
+ProvenanceExample2
+2011-04-19T15:40:49Z
+291
+/* 15. Views or Accounts */
+ProvenanceExample2
+2011-04-19T18:58:34Z
+291
+/* 16. Time */
+ProvenanceExample2
+2011-04-19T19:00:10Z
+291
+/* Other Issues */
+ProvenanceExample2
+2011-04-19T19:00:24Z
+291
+/* 5. Role */
+ProvenanceExample2
+2011-04-19T19:01:29Z
+291
+/* 6. Location */
+ProvenanceExample2
+2011-04-19T19:01:56Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T19:02:28Z
+291
+/* 14. Provenance Container */
+ProvenanceExample2
+2011-04-19T19:03:13Z
+291
+/* 17. Collections */
+ProvenanceExample2
+2011-04-19T19:09:00Z
+291
+/* 1. Resource */
+ProvenanceExample2
+2011-04-19T19:09:32Z
+291
+/* Provenance Terminology and Example */
+ProvenanceExample2
+2011-04-19T19:12:53Z
+291
+/* Provenance Terminology and Example */
+ProvenanceExample2
+2011-04-19T19:13:17Z
+291
+/* Provenance Terminology and Example */
+ProvenanceExample2
+2011-04-19T19:13:29Z
+291
+/* Provenance Terminology and Example */
+ProvenanceExample2
+2011-04-19T19:13:48Z
+291
+/* Provenance Concepts and Example */
+ProvenanceExample2
+2011-04-19T19:14:36Z
+291
+/* Provenance Concepts and Example */
+ProvenanceExample2
+2011-04-19T19:14:58Z
+291
+/* Data Journalism Example */
+ProvenanceExample2
+2011-04-19T19:17:58Z
+291
+/* Provenance Questions */
+ProvenanceExample2
+2011-04-19T19:18:41Z
+291
+/* Provenance Graph */
+ProvenanceExample2
+2011-04-19T19:19:12Z
+291
+/* 1. Resource */
+ProvenanceExample2
+2011-04-19T19:20:49Z
+291
+/* 1. Resource */
+ProvenanceExample2
+2011-04-19T19:21:14Z
+291
+/* 2. Process execution */
+ProvenanceExample2
+2011-04-19T19:22:24Z
+291
+/* 2. Process execution */
+ProvenanceExample2
+2011-04-19T19:23:52Z
+291
+/* 5. Role */
+ProvenanceExample2
+2011-04-19T19:25:27Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T19:26:56Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T19:27:23Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T19:27:36Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-19T19:28:09Z
+291
+/* 8. Generation */
+ProvenanceExample2
+2011-04-19T19:29:40Z
+291
+/* 9. Use */
+ProvenanceExample2
+2011-04-19T19:30:22Z
+291
+/* 9. Use */
+ProvenanceExample2
+2011-04-19T19:31:26Z
+291
+/* 9. Use */
+ProvenanceExample2
+2011-04-19T19:32:25Z
+291
+/* 12. Participation */
+ProvenanceExample2
+2011-04-19T19:33:37Z
+291
+/* 14. Provenance Container */
+ProvenanceExample2
+2011-04-19T19:33:48Z
+291
+/* 13. Control */
+ProvenanceExample2
+2011-04-19T19:34:30Z
+291
+/* 14. Provenance Container */
+ProvenanceExample2
+2011-04-19T19:35:11Z
+291
+/* 14. Provenance Container */
+ProvenanceExample2
+2011-04-19T19:35:24Z
+291
+/* 16. Time */
+ProvenanceExample2
+2011-04-19T19:37:02Z
+291
+/* Provenance Questions */
+ProvenanceExample2
+2011-04-19T19:37:48Z
+291
+/* Provenance Concepts and Example */
+ProvenanceExample2
+2011-04-28T10:17:16Z
+291
+/* Outline */
+ProvenanceExample2
+2011-04-28T10:18:04Z
+291
+/* Key nodes */
+ProvenanceExample2
+2011-04-28T10:24:38Z
+291
+/* Provenance Questions */
+ProvenanceExample2
+2011-04-28T10:27:07Z
+291
+/* 1. Resource */
+ProvenanceExample2
+2011-04-28T10:30:08Z
+291
+/* 2. Process execution */
+ProvenanceExample2
+2011-04-28T10:31:19Z
+291
+/* 4. Agent */
+ProvenanceExample2
+2011-04-28T10:34:44Z
+291
+/* 4. Agent */
+ProvenanceExample2
+2011-04-28T10:36:59Z
+291
+/* 5. Role */
+ProvenanceExample2
+2011-04-28T10:38:20Z
+291
+/* 2. Process execution */
+ProvenanceExample2
+2011-04-28T10:47:28Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-28T10:47:53Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-28T10:50:02Z
+291
+/* 7. Derivation */
+ProvenanceExample2
+2011-04-28T10:59:57Z
+291
+/* 8. Generation */
+ProvenanceExample2
+2011-04-28T11:01:32Z
+291
+/* 8. Generation */
+ProvenanceExample2
+2011-04-28T11:03:02Z
+291
+/* 9. Use */
+ProvenanceExample2
+2011-04-28T11:04:24Z
+291
+/* 9. Use */
+ProvenanceExample2
+2011-04-28T11:05:38Z
+291
+/* 10. Ordering of Processes */
+ProvenanceExample2
+2011-04-28T11:06:20Z
+291
+/* 13. Control */
+ProvenanceExample2
+2011-04-28T11:08:28Z
+291
+/* 15. Views or Accounts */
+ProvenanceExample2
+2011-04-28T11:15:38Z
+291
+/* 14. Provenance Container */
+ProvenanceExample2
+2011-04-28T11:16:03Z
+291
+/* 16. Time */
+ProvenanceExample2
+2011-04-28T11:16:30Z
+291
+/* 17. Collections */
+ProvenanceExample2
+2011-04-28T11:22:54Z
+87
+
+User:LucM
+2011-04-28T18:49:45Z
+294
+Created page with "=Provenance Task Forces=  ==1. Model Task Force==  ==2. Provenance Access and Query Task Force==  ==3. Connection Task Force==  ==4. Implementation and Test Cases Task force=="
+ProvenanceTaskForces
+2011-04-28T18:52:21Z
+294
+/* Provenance Task Forces */
+ProvenanceTaskForces
+2011-04-28T18:53:28Z
+294
+/* 1. Model Task Force */
+ProvenanceTaskForces
+2011-04-28T19:04:29Z
+294
+/* 1. Model Task Force */
+ProvenanceTaskForces
+2011-04-28T19:04:49Z
+294
+/* 1. Model Task Force */
+ProvenanceTaskForces
+2011-04-28T19:08:10Z
+294
+/* 1. Model Task Force */
+ProvenanceTaskForces
+2011-04-28T19:08:25Z
+294
+/* Provenance Task Forces */
+ProvenanceTaskForces
+2011-04-28T19:13:03Z
+294
+/* 2. Provenance Access and Query Task Force */
+ProvenanceTaskForces
+2011-04-28T19:13:17Z
+294
+/* Provenance Task Forces */
+ProvenanceTaskForces
+2011-04-28T19:20:51Z
+294
+/* Provenance Task Forces */
+ProvenanceTaskForces
+2011-04-28T19:23:30Z
+324
+Created page with "= Data Citation Principles =  Define by Peter Buneman  If C is a citation, <C> is the thing being cited.  D1. For any citation C, <C> MUST remain fix.  D2. Any citable thing T sh..."
+DataCitationPrinciples
+2011-05-24T10:04:04Z
+324
+
+DataCitationPrinciples
+2011-05-27T15:51:29Z
+324
+/* EPSRC Policy Framework on Research Data */
+DataCitationPrinciples
+2011-05-27T15:52:42Z
+324
+/* Principles */
+DataCitationPrinciples
+2011-05-27T15:54:49Z
+324
+/* Time Scales */
+DataCitationPrinciples
+2011-05-27T15:55:56Z
+324
+
+DataCitationPrinciples
+2011-05-27T15:57:37Z
+324
+/* Datacite */
+DataCitationPrinciples
+2011-05-27T15:59:24Z
+324
+/* Datacite */
+DataCitationPrinciples
+2011-05-27T16:00:51Z
+324
+/* Datacite */
+DataCitationPrinciples
+2011-05-31T12:30:30Z
+324
+/* SageCite */
+DataCitationPrinciples
+2011-05-31T12:33:12Z
+324
+/* SageCite */
+DataCitationPrinciples
+2011-05-31T12:37:18Z
+324
+/* SageCite */
+DataCitationPrinciples
+2011-05-31T12:38:10Z
+324
+/* SageCite */
+DataCitationPrinciples
+2011-05-31T12:44:10Z
+324
+/* SageCite */
+DataCitationPrinciples
+2011-05-31T12:55:57Z
+324
+/* CODATA */
+DataCitationPrinciples
+2011-05-31T13:31:18Z
+324
+/* A Proposed Standard for the Scholarly Citation of Quantitative Data */
+DataCitationPrinciples
+2011-05-31T13:35:24Z
+324
+/* Data Citation Principles */
+DataCitationPrinciples
+2011-05-31T13:37:38Z
+324
+/* Academic Papers */
+DataCitationPrinciples
+2011-05-31T14:08:19Z
+324
+/* TBL 5 steps to stardom */
+DataCitationPrinciples
+2011-05-31T14:08:30Z
+365
+Created page with " A resource ''r'':  resource(''r'')  A resource state ''s'': state(''s'')"
+ProvenanceConcepts
+2011-06-01T14:45:17Z
+365
+
+ProvenanceConcepts
+2011-06-01T14:48:31Z
+365
+
+ProvenanceConcepts
+2011-06-01T14:53:13Z
+365
+
+ProvenanceConcepts
+2011-06-01T14:56:27Z
+365
+/* Provenance Concepts */
+ProvenanceConcepts
+2011-06-01T14:58:35Z
+365
+/* Resource and Identity */
+ProvenanceConcepts
+2011-06-01T14:58:45Z
+87
+
+User:LucM
+2011-06-13T07:38:42Z
+377
+Created page with "=File Example=  An alternative example to discuss concepts * smaller than the data journalism example * focuses on mutable entities * moves away from the web architecture, to avo..."
+FileExample
+2011-06-13T07:51:06Z
+377
+/* File Example */
+FileExample
+2011-06-13T07:51:52Z
+377
+/* File Example */
+FileExample
+2011-06-13T08:00:36Z
+377
+/* File Example */
+FileExample
+2011-06-13T08:03:55Z
+377
+/* File Scenario */
+FileExample
+2011-06-13T08:07:30Z
+377
+/* ddd */
+FileExample
+2011-06-13T08:12:45Z
+377
+/* Relative notion of invariance */
+FileExample
+2011-06-13T08:18:29Z
+377
+/* Mapping concepts */
+FileExample
+2011-06-13T08:27:12Z
+377
+/* Mapping concepts */
+FileExample
+2011-06-13T08:27:56Z
+377
+/* Mutable Things and Invariant Things */
+FileExample
+2011-06-13T08:28:39Z
+377
+/* Mapping concepts */
+FileExample
+2011-06-13T08:34:10Z
+377
+/* Some Invariant Information */
+FileExample
+2011-06-13T08:36:37Z
+377
+/* Invariant View or Perspective on Things */
+FileExample
+2011-06-13T08:39:51Z
+377
+/* Invariant View or Perspective on Things */
+FileExample
+2011-06-13T08:42:37Z
+377
+/* Some Invariant Information */
+FileExample
+2011-06-13T08:44:27Z
+377
+/* Mapping concepts */
+FileExample
+2011-06-13T08:45:54Z
+377
+/* Invariant View or Perspective on Things */
+FileExample
+2011-06-13T08:47:04Z
+377
+/* Invariant View or Perspective on Things */
+FileExample
+2011-06-13T08:47:56Z
+377
+/* Some Invariant Information */
+FileExample
+2011-06-13T08:56:04Z
+377
+/* Relative notion of invariance */
+FileExample
+2011-06-13T08:56:36Z
+377
+/* Relative notion of invariance */
+FileExample
+2011-06-13T08:57:02Z
+377
+/* Relative notion of invariance */
+FileExample
+2011-06-13T08:57:22Z
+377
+/* Relative notion of invariance */
+FileExample
+2011-06-13T08:57:45Z
+377
+/* Some Invariant Information */
+FileExample
+2011-06-13T09:33:18Z
+382
+Created page with "=Inaugural="
+Inaugural
+2011-06-17T09:43:18Z
+382
+/* Inaugural */
+Inaugural
+2011-06-17T09:44:07Z
+383
+Created page with "=Annotation Systems (Related Work)=  Distributed Annotation System (DAS) http://en.wikipedia.org/wiki/Distributed_Annotation_System  Web annotations: http://en.wikipedia.org/wiki..."
+AnnotationSystems
+2011-06-17T09:57:33Z
+383
+/* Database (Related Work) */
+AnnotationSystems
+2011-06-17T11:05:51Z
+384
+Created page with "=A Textual Notation for PON=  It would be useful to define a textual notation for PON, so that we can export the contents of PON in human readable format, and vice-versa we can i..."
+ATextualNotationForPON
+2011-06-17T11:36:03Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:36:35Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:36:58Z
+385
+Creating user page with biography of new user.
+User:Saud Aljaloud
+2011-06-17T11:38:12Z
+386
+Welcome!
+User talk:Saud Aljaloud
+2011-06-17T11:38:12Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:39:35Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:39:57Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:42:03Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:42:18Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:43:16Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:45:16Z
+384
+/* A Textual Notation for PON */
+ATextualNotationForPON
+2011-06-17T11:47:53Z
+448
+/* Project annual plenary */
+Minutes-2011-07-14
+2011-07-15T11:56:46Z
+504
+Created page with "=Year 2-3 Design=  The purpose of this page is to discuss broad characteristics of the approach and system that we plan to design and deploy in the next two years.  * Make persis..."
+Year2and3Design
+2011-10-03T13:50:04Z
+504
+/* Year 2-3 Design */
+Year2and3Design
+2011-10-03T13:50:55Z
+504
+/* Year 2-3 Design */
+Year2and3Design
+2011-10-03T13:51:36Z
+504
+/* Year 2-3 Design */
+Year2and3Design
+2011-10-03T13:52:04Z
+505
+
+Minutes-2011-10-06
+2011-10-06T09:00:09Z
+520
+
+Meeting-2/11/2011
+2011-10-24T11:59:02Z
+520
+
+Meeting-2/11/2011
+2011-10-24T11:59:21Z
+520
+
+Meeting-2/11/2011
+2011-10-24T11:59:51Z
+520
+
+Meeting-2/11/2011
+2011-10-25T05:07:13Z
+520
+/* Time */
+Meeting-2/11/2011
+2011-11-01T16:56:06Z
+520
+/* Time */
+Meeting-2/11/2011
+2011-11-01T16:56:27Z
+520
+/* Dinner */
+Meeting-2/11/2011
+2011-11-01T16:59:07Z

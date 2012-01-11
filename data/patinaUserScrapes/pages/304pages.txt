@@ -1,0 +1,1 @@
+{"query": {"pages": {"304": {"ns": 6, "pageid": 304, "revisions": [{"timestamp": "2011-05-04T11:09:10Z", "user": "MikeJ"}], "title": "File:InterventionPlan.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

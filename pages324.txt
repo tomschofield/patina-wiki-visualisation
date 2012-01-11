@@ -1,0 +1,58 @@
+DataCitationPrinciples
+LucM
+/* TBL 5 steps to stardom */
+2011-05-31T14:08:30Z
+LucM
+/* Academic Papers */
+2011-05-31T14:08:19Z
+LucM
+/* Data Citation Principles */
+2011-05-31T13:37:38Z
+LucM
+/* A Proposed Standard for the Scholarly Citation of Quantitative Data */
+2011-05-31T13:35:24Z
+LucM
+/* CODATA */
+2011-05-31T13:31:18Z
+LucM
+/* SageCite */
+2011-05-31T12:55:57Z
+LucM
+/* SageCite */
+2011-05-31T12:44:10Z
+LucM
+/* SageCite */
+2011-05-31T12:38:10Z
+LucM
+/* SageCite */
+2011-05-31T12:37:18Z
+LucM
+/* SageCite */
+2011-05-31T12:33:12Z
+LucM
+/* Datacite */
+2011-05-31T12:30:30Z
+LucM
+/* Datacite */
+2011-05-27T16:00:51Z
+LucM
+/* Datacite */
+2011-05-27T15:59:24Z
+LucM
+
+2011-05-27T15:57:37Z
+LucM
+/* Time Scales */
+2011-05-27T15:55:56Z
+LucM
+/* Principles */
+2011-05-27T15:54:49Z
+LucM
+/* EPSRC Policy Framework on Research Data */
+2011-05-27T15:52:42Z
+LucM
+
+2011-05-27T15:51:29Z
+LucM
+Created page with "= Data Citation Principles =  Define by Peter Buneman  If C is a citation, <C> is the thing being cited.  D1. For any citation C, <C> MUST remain fix.  D2. Any citable thing T sh..."
+2011-05-24T10:04:04Z

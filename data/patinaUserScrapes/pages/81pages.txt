@@ -1,0 +1,1 @@
+{"query": {"pages": {"81": {"ns": 6, "pageid": 81, "revisions": [{"timestamp": "2011-02-16T11:39:24Z", "user": "PeterB"}], "title": "File:BasicConnection 05.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

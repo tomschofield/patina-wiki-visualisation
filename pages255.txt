@@ -1,0 +1,49 @@
+Card:Simplicity
+PeterB
+/* references */
+2011-05-04T15:29:37Z
+PeterB
+/* references */
+2011-05-04T15:28:55Z
+PeterB
+/* references */
+2011-05-04T15:28:34Z
+PeterB
+/* relevance to PATINA */
+2011-05-04T10:45:51Z
+PeterB
+/* references */
+2011-05-04T10:43:37Z
+PeterB
+/* references */
+2011-05-04T10:43:09Z
+PeterB
+/* references */
+2011-05-04T10:40:09Z
+PeterB
+/* references */
+2011-05-04T10:39:13Z
+PeterB
+
+2011-05-04T10:37:56Z
+PeterB
+
+2011-04-20T13:10:46Z
+PeterB
+/* references */
+2011-04-13T15:32:49Z
+PeterB
+/* references */
+2011-04-13T15:26:09Z
+PeterB
+
+2011-04-13T15:25:42Z
+PeterB
+
+2011-04-13T15:18:37Z
+PeterB
+
+2011-04-12T15:10:25Z
+PeterB
+Created page with "{{TestCard|concept|Tangible|[[File:flowcardimage.png]]|Tangible User Interface.}}"
+2011-04-12T15:09:41Z

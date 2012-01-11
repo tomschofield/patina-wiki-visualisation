@@ -1,0 +1,1 @@
+{"query": {"pages": [{"pageid": 0, "missing": ""}]}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

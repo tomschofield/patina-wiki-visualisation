@@ -1,0 +1,1 @@
+{"query": {"pages": {"575": {"ns": 6, "pageid": 575, "revisions": [{"timestamp": "2011-12-16T12:01:01Z", "user": "PeterB"}], "title": "File:2011-12-15 at 18-50-15.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

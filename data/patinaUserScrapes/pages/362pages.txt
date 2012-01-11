@@ -1,0 +1,1 @@
+{"query": {"pages": {"362": {"ns": 6, "pageid": 362, "revisions": [{"comment": "Pinwheel peg", "timestamp": "2011-05-29T17:22:43Z", "user": "TomF"}], "title": "File:Peg3.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

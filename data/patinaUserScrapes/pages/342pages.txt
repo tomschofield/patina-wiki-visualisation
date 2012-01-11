@@ -1,0 +1,1 @@
+{"query": {"pages": {"342": {"ns": 6, "pageid": 342, "revisions": [{"comment": "L's movements around the trench", "timestamp": "2011-05-25T18:16:45Z", "user": "TomF"}], "title": "File:Pe map.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

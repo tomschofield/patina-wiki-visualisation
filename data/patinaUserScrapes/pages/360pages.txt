@@ -1,0 +1,1 @@
+{"query": {"pages": {"360": {"ns": 6, "pageid": 360, "revisions": [{"comment": "Pegs around the trench", "timestamp": "2011-05-29T17:22:08Z", "user": "TomF"}], "title": "File:Peg1.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

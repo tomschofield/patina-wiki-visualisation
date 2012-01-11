@@ -1,0 +1,1 @@
+{"query": {"pages": {"372": {"ns": 6, "pageid": 372, "revisions": [{"comment": "Daniele Sirigu dissertation", "timestamp": "2011-06-07T13:24:39Z", "user": "DanieleS"}], "title": "File:DanieleSirigu dissertation.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

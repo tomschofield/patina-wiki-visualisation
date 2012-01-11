@@ -1,0 +1,1 @@
+{"query": {"pages": {"510": {"ns": 6, "pageid": 510, "revisions": [{"timestamp": "2011-10-17T15:05:13Z", "user": "PeterB"}], "title": "File:Postit.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

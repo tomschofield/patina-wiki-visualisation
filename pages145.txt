@@ -1,0 +1,13 @@
+Card:Process
+MikeJ
+
+2011-03-24T15:56:00Z
+MikeJ
+
+2011-03-24T15:41:11Z
+PeterB
+
+2011-03-24T15:32:07Z
+MikeJ
+Created page with "==Process==  ===Description===  A process is a series of actions performed on, or caused by, artifacts, that result in new artifacts.  ===Example===  [[File:Process.jpg]]  In thi..."
+2011-03-02T15:11:07Z

@@ -1,0 +1,16 @@
+DeliverableCardDeckv1
+TomF
+
+2011-02-11T14:52:49Z
+MartynD
+/* Playing Card Suits */
+2011-01-31T11:17:56Z
+MartynD
+/* Software */
+2011-01-31T11:03:47Z
+MartynD
+/* Design Playing Cards Proposal */
+2011-01-31T11:00:30Z
+MartynD
+Created page with "== Design Playing Cards Proposal == This document proposes the development of a set of design playing cards which will act ‘tokens of collaboration’between the different cons..."
+2011-01-31T10:50:33Z

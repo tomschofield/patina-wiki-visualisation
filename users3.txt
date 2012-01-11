@@ -1,0 +1,60 @@
+26
+
+User:DannyW
+2011-04-11T17:40:56Z
+26
+
+User:DannyW
+2011-04-13T13:48:57Z
+26
+
+User:DannyW
+2011-04-18T12:22:29Z
+435
+Created page with "This card represents 'coherence' in the multiple philosophical senses.  It generally refers to two epistemologically separate philosophical concepts:  i) a coherence theory of kn..."
+Card:Coherence
+2011-07-04T13:53:49Z
+436
+
+File:Coherent1.jpg
+2011-07-04T13:56:35Z
+435
+
+Card:Coherence
+2011-07-04T13:59:05Z
+435
+
+Card:Coherence
+2011-07-04T14:04:47Z
+435
+/* Computational epistemology (and computational coherence) */
+Card:Coherence
+2011-07-04T14:05:22Z
+484
+
+File:Privacy.jpg
+2011-08-17T17:07:28Z
+485
+Created page with "{{TestCard|Concept|Privacy|[[File:Privacy.jpg]]|“You have zero privacy anyway.  Get over it” – Scott McNealy former CEO of Sun Microsystems}}  Instead of simply ‘privacy..."
+Card:Privacy
+2011-08-17T17:09:18Z
+485
+
+Card:Privacy
+2011-08-18T13:46:49Z
+485
+
+Card:Privacy
+2011-08-18T15:04:50Z
+520
+/* Attendees: */
+Meeting-2/11/2011
+2011-10-31T21:14:34Z
+538
+/* Tasks */
+Task3-NarrationDesign
+2011-11-15T14:11:41Z
+538
+/* Tasks */
+Task3-NarrationDesign
+2011-12-08T13:45:12Z

@@ -1,0 +1,1 @@
+{"query": {"pages": {"373": {"ns": 6, "pageid": 373, "revisions": [{"timestamp": "2011-06-08T13:16:04Z", "user": "MikeF"}], "title": "File:Kinect.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,79 @@
+DeliverablesVersion1
+LucM
+
+2011-02-21T16:14:57Z
+LucM
+
+2011-02-21T10:21:46Z
+LucM
+Protected "[[DeliverablesVersion1]]": Version freeze ([edit=sysop] (indefinite) [move=sysop] (indefinite))
+2011-02-21T09:04:34Z
+LucM
+
+2011-02-21T09:02:57Z
+LucM
+
+2011-02-21T08:59:07Z
+LucM
+
+2011-02-21T08:54:55Z
+MikeJ
+
+2011-02-19T11:33:24Z
+LucM
+
+2011-02-17T10:02:29Z
+LucM
+
+2011-02-17T10:02:09Z
+LucM
+
+2011-02-17T10:00:03Z
+LucM
+/* Deliverables (version v1) */
+2011-02-17T09:58:58Z
+MikeJ
+
+2011-02-08T13:51:48Z
+LucM
+/* Deliverables (version v1) */
+2011-01-27T10:24:41Z
+LucM
+
+2011-01-27T10:03:33Z
+LucM
+
+2011-01-24T15:06:28Z
+LucM
+
+2011-01-24T15:03:24Z
+LucM
+
+2011-01-24T15:02:48Z
+LucM
+
+2011-01-24T14:34:06Z
+LucM
+/* Deliverables (version v1) */
+2011-01-24T14:32:56Z
+LucM
+
+2011-01-24T14:30:20Z
+LucM
+/* Deliverables (version v1) */
+2011-01-24T14:28:45Z
+LucM
+/* Deliverables (version v1) */
+2011-01-24T14:28:04Z
+LucM
+/* Deliverables (version v1) */
+2011-01-24T14:27:13Z
+LucM
+
+2011-01-24T14:26:50Z
+LucM
+moved [[Deliverables]] to [[DeliverablesVersion1]]
+2011-01-20T13:41:22Z
+LucM
+Created page with " ==Deliverables (version v1)==  [[DeliverableAPIv1 | Deliverable API v1]]  [[DeliverableOntologyv1| Deliverable Ontology v1]]  [[DeliverableWorkPracticev1| Deliverable Work Pract..."
+2011-01-20T11:41:51Z

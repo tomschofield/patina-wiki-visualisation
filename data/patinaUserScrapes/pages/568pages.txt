@@ -1,0 +1,1 @@
+{"query": {"pages": {"568": {"ns": 6, "pageid": 568, "revisions": [{"timestamp": "2011-11-24T13:25:39Z", "user": "TomF"}], "title": "File:Virtualpegs.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

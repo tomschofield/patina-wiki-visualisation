@@ -1,0 +1,1 @@
+{"query": {"pages": {"153": {"ns": 100, "pageid": 153, "revisions": [{"comment": "moved [[Card:Interpretation Provenance]] to [[Card:Provenance (Interpretation)]]", "timestamp": "2011-03-07T16:46:04Z", "user": "MikeJ"}], "title": "Card:Interpretation Provenance"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

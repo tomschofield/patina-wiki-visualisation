@@ -1,0 +1,1 @@
+{"query": {"pages": {"78": {"ns": 6, "pageid": 78, "revisions": [{"timestamp": "2011-02-15T20:04:47Z", "user": "TomF"}], "title": "File:Kiln1.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

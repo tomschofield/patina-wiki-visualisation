@@ -1,0 +1,1 @@
+{"query": {"pages": {"36": {"ns": 6, "pageid": 36, "revisions": [{"comment": "Overview of propoesed new section (project diary) on the PATINA website.", "timestamp": "2011-01-31T11:37:39Z", "user": "MartynD"}], "title": "File:WebSiteProjectDiary.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

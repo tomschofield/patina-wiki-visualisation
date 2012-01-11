@@ -1,0 +1,1 @@
+{"query": {"pages": {"464": {"ns": 6, "pageid": 464, "revisions": [{"timestamp": "2011-07-19T10:16:21Z", "user": "EmmaT"}], "title": "File:SenseCam1.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

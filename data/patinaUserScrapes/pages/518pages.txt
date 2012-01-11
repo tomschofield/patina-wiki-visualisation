@@ -1,0 +1,1 @@
+{"query": {"pages": {"518": {"ns": 6, "pageid": 518, "revisions": [{"timestamp": "2011-10-21T12:24:02Z", "user": "PeterB"}], "title": "File:Giftparcel.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

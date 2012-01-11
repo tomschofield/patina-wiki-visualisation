@@ -1,0 +1,1 @@
+{"query": {"pages": {"187": {"ns": 1, "pageid": 187, "revisions": [{"comment": "Created page with \"Please can we get a separate page for each card?  Rosamund\"", "timestamp": "2011-03-24T00:35:56Z", "user": "RosamundD"}], "title": "Talk:CardDeck"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

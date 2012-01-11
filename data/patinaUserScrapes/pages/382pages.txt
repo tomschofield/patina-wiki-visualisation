@@ -1,0 +1,1 @@
+{"query": {"pages": {"382": {"ns": 0, "pageid": 382, "revisions": [{"comment": "/* Inaugural */", "timestamp": "2011-06-17T09:44:07Z", "user": "LucM"}, {"comment": "Created page with \"=Inaugural=\"", "timestamp": "2011-06-17T09:43:18Z", "user": "LucM"}], "title": "Inaugural"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

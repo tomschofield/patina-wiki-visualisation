@@ -1,0 +1,1 @@
+{"query": {"pages": {"554": {"ns": 6, "pageid": 554, "revisions": [{"timestamp": "2011-11-21T13:24:30Z", "user": "MikeJ"}], "title": "File:PoNMenu.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

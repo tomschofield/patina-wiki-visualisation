@@ -1,0 +1,1 @@
+{"query": {"pages": {"433": {"ns": 6, "pageid": 433, "revisions": [{"comment": "Daniele thesis source code", "timestamp": "2011-06-29T15:47:21Z", "user": "DanieleS"}], "title": "File:Artefact-identifier.zip.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

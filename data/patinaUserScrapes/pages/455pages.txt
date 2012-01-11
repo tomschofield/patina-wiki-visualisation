@@ -1,0 +1,1 @@
+{"query": {"pages": {"455": {"ns": 6, "pageid": 455, "revisions": [{"timestamp": "2011-07-12T15:40:13Z", "user": "PeterB"}], "title": "File:Tape tracking.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

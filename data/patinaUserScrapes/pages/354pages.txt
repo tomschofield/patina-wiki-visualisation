@@ -1,0 +1,1 @@
+{"query": {"pages": {"354": {"ns": 6, "pageid": 354, "revisions": [{"comment": "Time passing", "timestamp": "2011-05-26T10:47:51Z", "user": "TomF"}], "title": "File:Ball4.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"380": {"ns": 6, "pageid": 380, "revisions": [{"timestamp": "2011-06-14T15:01:26Z", "user": "PeterB"}], "title": "File:Petes-logbook-scribblings-02.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

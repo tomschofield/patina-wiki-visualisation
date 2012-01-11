@@ -1,0 +1,1 @@
+{"query": {"pages": {"442": {"ns": 0, "pageid": 442, "revisions": [{"comment": "Created page with \"== Archaeology ==  [[Lab deployment | Lab deployment]]  [[Field deployment | Field deployment]]\"", "timestamp": "2011-07-05T10:58:47Z", "user": "MikeF"}], "title": "Archaeology"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

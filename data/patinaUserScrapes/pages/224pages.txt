@@ -1,0 +1,1 @@
+{"query": {"pages": {"224": {"ns": 6, "pageid": 224, "revisions": [{"comment": "A recruitment leaflet to recruit family tree historians to participate in our research.", "timestamp": "2011-04-01T15:54:37Z", "user": "MadelineB"}], "title": "File:FamlilyTree-DL-v3.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

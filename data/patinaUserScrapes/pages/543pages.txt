@@ -1,0 +1,1 @@
+{"query": {"pages": {"543": {"ns": 0, "pageid": 543, "revisions": [{"timestamp": "2011-11-09T15:19:46Z", "user": "TomS"}, {"comment": "created meeting page", "timestamp": "2011-11-09T15:18:48Z", "user": "TomS"}], "title": "TomS-PeteB-2011-09-11"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

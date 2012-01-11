@@ -1,0 +1,1 @@
+{"query": {"pages": {"327": {"ns": 6, "pageid": 327, "revisions": [{"comment": "C taking photos of the Cherry Picker", "timestamp": "2011-05-25T15:41:49Z", "user": "TomF"}], "title": "File:Pe C taking photos.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

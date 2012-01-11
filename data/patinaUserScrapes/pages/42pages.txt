@@ -1,0 +1,1 @@
+{"query": {"pages": {"42": {"ns": 0, "pageid": 42, "revisions": [{"comment": "moved [[DeliverableOntologyv1]] to [[PatinaOntology]]", "timestamp": "2011-02-08T13:51:25Z", "user": "MikeJ"}], "title": "DeliverableOntologyv1"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

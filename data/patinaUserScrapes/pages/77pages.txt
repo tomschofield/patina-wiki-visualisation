@@ -1,0 +1,1 @@
+{"query": {"pages": {"77": {"ns": 6, "pageid": 77, "revisions": [{"timestamp": "2011-02-15T20:04:27Z", "user": "TomF"}], "title": "File:DLab2.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

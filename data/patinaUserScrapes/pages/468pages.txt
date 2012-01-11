@@ -1,0 +1,1 @@
+{"query": {"pages": {"468": {"ns": 6, "pageid": 468, "revisions": [{"timestamp": "2011-07-25T10:19:07Z", "user": "MarkM"}], "title": "File:KinectBackpackWorn.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

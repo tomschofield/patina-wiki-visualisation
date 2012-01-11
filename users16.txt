@@ -1,0 +1,442 @@
+515
+Tom Schofield's main page
+User:TomS
+2011-10-20T14:47:38Z
+1
+/* Wiki Homepages */
+Main Page
+2011-10-20T14:48:12Z
+515
+
+User:TomS
+2011-10-20T14:53:00Z
+515
+
+User:TomS
+2011-10-20T14:54:55Z
+515
+
+User:TomS
+2011-10-20T14:56:13Z
+515
+
+User:TomS
+2011-11-01T10:16:27Z
+498
+/* Deliverables Year 2 */
+DeliverablesYear2
+2011-11-02T09:17:10Z
+526
+Created page with "placeholder"
+Newcastle
+2011-11-02T09:17:25Z
+515
+/* outline of this document: */
+User:TomS
+2011-11-02T09:17:59Z
+526
+
+Newcastle
+2011-11-02T09:18:26Z
+515
+moved project description to deliverables and replaced with bio
+User:TomS
+2011-11-02T09:21:04Z
+527
+These files are examples of Tom Schofield's art work and are licensed under Creative commons 2.0 non-commercial attribution
+File:Burjbabil B.jpg
+2011-11-02T09:25:24Z
+528
+These files are examples of Tom Schofield's art work and are licensed under Creative commons 2.0 non-commercial attribution
+File:Null by morse 2.jpg
+2011-11-02T09:25:24Z
+529
+
+File:Null by morse 1.jpg
+2011-11-02T09:28:23Z
+515
+moved project description to deliverables and replaced with bio
+User:TomS
+2011-11-02T09:29:04Z
+515
+
+User:TomS
+2011-11-09T12:03:44Z
+541
+first sketch about possible wiki use/cross commenting visualisation
+File:WikiVis1.jpg
+2011-11-09T12:07:15Z
+542
+Created page with "I've been flirting with the idea of visualising Patina relationships on the wiki - cross editing, dominance, etc. MikeJ - sorry to use you as an example!  [[File:WikiVis1.jpg]]"
+Current sketches
+2011-11-09T12:08:42Z
+541
+uploaded a new version of &quot;[[File:WikiVis1.jpg]]&quot;
+File:WikiVis1.jpg
+2011-11-09T12:18:38Z
+50
+
+Minutes
+2011-11-09T15:06:19Z
+543
+created meeting page
+TomS-PeteB-2011-09-11
+2011-11-09T15:18:48Z
+543
+
+TomS-PeteB-2011-09-11
+2011-11-09T15:19:46Z
+363
+include Swansea meetings
+Meetings
+2011-11-18T12:54:34Z
+515
+He is currently working on a front end to the louxcie capture project and on visualising this wiki.
+User:TomS
+2011-11-21T09:29:08Z
+1
+
+Main Page
+2011-11-21T10:44:48Z
+1
+
+Main Page
+2011-11-21T10:46:15Z
+549
+a grab from processing app by TomS visualising co-editing relationships on the wiki
+File:Wikivis.png
+2011-11-21T10:47:13Z
+1
+
+Main Page
+2011-11-21T10:47:48Z
+550
+small version of wikivis file
+File:WikivisSmall.png
+2011-11-21T10:51:14Z
+1
+
+Main Page
+2011-11-21T10:51:34Z
+1
+
+Main Page
+2011-11-21T10:52:17Z
+551
+A host page for the large visualisation image from the wiki
+WikiVis
+2011-11-21T10:52:46Z
+1
+
+Main Page
+2011-11-21T10:57:49Z
+1
+
+Main Page
+2011-11-21T10:58:14Z
+515
+
+User:TomS
+2011-11-21T10:58:48Z
+526
+
+Newcastle
+2011-11-22T11:37:16Z
+562
+moved content of deliverables "newcastle" to this page to free up that page for work in progress notes
+Research background
+2011-11-22T11:37:57Z
+526
+Replaced content with "[[research background]]
+
+[[paper in progress, work area]]"
+Newcastle
+2011-11-22T11:38:29Z
+563
+create page and add line "This area will be used to store notes for paper being written by MartynD and TomS"
+Paper in progress, work area
+2011-11-22T11:39:28Z
+563
+added some structure
+Paper in progress, work area
+2011-11-22T11:44:38Z
+563
+
+Paper in progress, work area
+2011-11-22T13:15:17Z
+563
+
+Paper in progress, work area
+2011-11-22T13:39:43Z
+563
+
+Paper in progress, work area
+2011-11-22T14:20:56Z
+562
+
+Research background
+2011-11-22T16:22:28Z
+563
+/* drafts and notes */
+Paper in progress, work area
+2011-12-07T14:35:37Z
+563
+
+Paper in progress, work area
+2011-12-07T14:38:48Z
+563
+very rough version of first section, most content there but not revised at all yet
+Paper in progress, work area
+2011-12-10T16:06:03Z
+563
+added discussion of tool analysis
+Paper in progress, work area
+2011-12-15T15:11:55Z
+578
+test file for mediawiki api upload script
+File:TestMonkey.png
+2011-12-19T16:50:11Z
+578
+uploaded a new version of &quot;[[File:TestMonkey.png]]&quot;
+File:TestMonkey.png
+2011-12-19T17:00:02Z
+563
+added discussion of system indices and conclusion
+Paper in progress, work area
+2011-12-20T10:17:13Z
+549
+uploaded a new version of &quot;[[File:Wikivis.png]]&quot;
+File:Wikivis.png
+2011-12-20T12:11:33Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2011-12-20T12:20:19Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2011-12-20T12:21:49Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2011-12-20T12:24:43Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2011-12-20T12:28:13Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2011-12-20T12:29:20Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2012-01-04T10:15:14Z
+515
+amended current activities
+User:TomS
+2012-01-04T16:25:57Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2012-01-05T15:30:22Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2012-01-06T09:12:50Z
+579
+test of applet upload
+File:ColorWheel.jar
+2012-01-06T13:35:52Z
+515
+
+User:TomS
+2012-01-06T13:39:52Z
+515
+tried to include applet in page, no joy
+User:TomS
+2012-01-06T13:40:20Z
+515
+
+User:TomS
+2012-01-06T13:46:26Z
+580
+Created page with "[[File:ColorWheel.jar]] java_applet code="PegGame.class"  height="150" width="150""
+AppletTest
+2012-01-06T13:49:08Z
+580
+java_applet code="PegGame.class"  height="150" width="150"
+AppletTest
+2012-01-06T13:50:23Z
+581
+class for test applet
+File:ColorWheel.class
+2012-01-06T13:53:50Z
+580
+java_applet code="PegGame.class"  height="150" width="150"
+AppletTest
+2012-01-06T13:54:06Z
+580
+
+AppletTest
+2012-01-06T13:55:22Z
+580
+
+AppletTest
+2012-01-06T13:56:35Z
+580
+
+AppletTest
+2012-01-06T13:56:56Z
+582
+first attempt to embed visualisation applet in wiki
+File:Core.jar
+2012-01-06T14:05:12Z
+583
+first attempt to embed visualisation applet in wiki
+File:Json.jar
+2012-01-06T14:05:12Z
+584
+first attempt to embed visualisation applet in wiki
+File:TestApplet.jar
+2012-01-06T14:05:12Z
+515
+
+User:TomS
+2012-01-06T14:05:54Z
+585
+Created page with "<java_applet code="PegGame.class"  height="150" width="150" archive="PegGame.jar" />"
+BigApplet
+2012-01-06T14:06:20Z
+584
+uploaded a new version of &quot;[[File:TestApplet.jar]]&quot;
+File:TestApplet.jar
+2012-01-06T14:07:17Z
+583
+uploaded a new version of &quot;[[File:Json.jar]]&quot;
+File:Json.jar
+2012-01-06T14:07:34Z
+582
+uploaded a new version of &quot;[[File:Core.jar]]&quot;
+File:Core.jar
+2012-01-06T14:07:50Z
+586
+
+File:TestApplet.class
+2012-01-06T14:09:17Z
+585
+
+BigApplet
+2012-01-06T14:09:45Z
+585
+
+BigApplet
+2012-01-06T14:11:29Z
+587
+
+File:Objects.class
+2012-01-06T14:16:59Z
+588
+
+File:Objects.jar
+2012-01-06T14:16:59Z
+585
+
+BigApplet
+2012-01-06T14:17:32Z
+589
+actual class files for recent activity visualisation
+File:Patina s.jar
+2012-01-06T16:03:42Z
+590
+actual class files for recent activity visualisation
+File:Patina s.class
+2012-01-06T16:03:42Z
+585
+substituted actual visualisation jar and class files, fingers crossed
+BigApplet
+2012-01-06T16:04:22Z
+585
+
+BigApplet
+2012-01-06T16:04:37Z
+585
+
+BigApplet
+2012-01-06T16:05:02Z
+585
+
+BigApplet
+2012-01-06T16:05:53Z
+591
+underscore in previous files was causing sketch to fail
+File:PatinaS.class
+2012-01-06T16:07:25Z
+592
+underscore in previous files was causing sketch to fail
+File:PatinaS.jar
+2012-01-06T16:07:25Z
+585
+
+BigApplet
+2012-01-06T16:07:40Z
+585
+
+BigApplet
+2012-01-06T16:08:32Z
+585
+
+BigApplet
+2012-01-06T16:08:51Z
+592
+uploaded a new version of &quot;[[File:PatinaS.jar]]&quot;: s
+File:PatinaS.jar
+2012-01-06T16:18:18Z
+591
+uploaded a new version of &quot;[[File:PatinaS.class]]&quot;
+File:PatinaS.class
+2012-01-06T16:18:46Z
+593
+
+File:PatinaT.class
+2012-01-06T16:21:18Z
+594
+
+File:PatinaT.jar
+2012-01-06T16:21:19Z
+585
+
+BigApplet
+2012-01-06T16:21:45Z
+594
+uploaded a new version of &quot;[[File:PatinaT.jar]]&quot;
+File:PatinaT.jar
+2012-01-06T16:23:14Z
+593
+uploaded a new version of &quot;[[File:PatinaT.class]]&quot;
+File:PatinaT.class
+2012-01-06T16:23:29Z
+1
+added java applet of visualisation of recent wiki activity
+Main Page
+2012-01-06T16:30:39Z
+1
+
+Main Page
+2012-01-06T16:34:23Z
+1
+
+Main Page
+2012-01-06T16:37:24Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2012-01-07T00:30:24Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2012-01-08T16:46:09Z
+550
+uploaded a new version of &quot;[[File:WikivisSmall.png]]&quot;
+File:WikivisSmall.png
+2012-01-09T00:30:20Z

@@ -1,0 +1,31 @@
+ProvenanceTaskForces
+LucM
+/* Provenance Task Forces */
+2011-04-28T19:23:30Z
+LucM
+/* Provenance Task Forces */
+2011-04-28T19:20:51Z
+LucM
+/* 2. Provenance Access and Query Task Force */
+2011-04-28T19:13:17Z
+LucM
+/* Provenance Task Forces */
+2011-04-28T19:13:03Z
+LucM
+/* 1. Model Task Force */
+2011-04-28T19:08:25Z
+LucM
+/* 1. Model Task Force */
+2011-04-28T19:08:10Z
+LucM
+/* 1. Model Task Force */
+2011-04-28T19:04:49Z
+LucM
+/* 1. Model Task Force */
+2011-04-28T19:04:29Z
+LucM
+/* Provenance Task Forces */
+2011-04-28T18:53:28Z
+LucM
+Created page with "=Provenance Task Forces=  ==1. Model Task Force==  ==2. Provenance Access and Query Task Force==  ==3. Connection Task Force==  ==4. Implementation and Test Cases Task force=="
+2011-04-28T18:52:21Z

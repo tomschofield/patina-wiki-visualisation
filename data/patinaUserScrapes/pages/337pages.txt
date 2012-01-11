@@ -1,0 +1,1 @@
+{"query": {"pages": {"337": {"ns": 6, "pageid": 337, "revisions": [{"comment": "Area pegged out for excavation", "timestamp": "2011-05-25T17:12:03Z", "user": "TomF"}], "title": "File:Pe pegs.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

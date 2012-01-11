@@ -1,0 +1,1 @@
+{"query": {"pages": {"154": {"ns": 0, "pageid": 154, "revisions": [{"comment": "Created page with \"= Pages I've worked on =   = My test area =  = Pete's other pages =\"", "timestamp": "2011-03-08T15:44:07Z", "user": "PeterB"}], "title": "PeterB"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

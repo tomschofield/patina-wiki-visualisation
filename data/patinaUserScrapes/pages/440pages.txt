@@ -1,0 +1,1 @@
+{"query": {"pages": {"440": {"ns": 6, "pageid": 440, "revisions": [{"comment": "Study outline document.", "timestamp": "2011-07-05T10:54:16Z", "user": "EmmaT"}], "title": "File:Study outline.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"370": {"ns": 6, "pageid": 370, "revisions": [{"comment": "Assemblage card", "timestamp": "2011-06-05T13:10:26Z", "user": "TomF"}], "title": "File:Assemblage.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

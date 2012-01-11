@@ -1,0 +1,1 @@
+{"query": {"pages": {"220": {"ns": 14, "pageid": 220, "revisions": [{"comment": "Created page with \"=Hardware Suit=\"", "timestamp": "2011-03-24T16:04:52Z", "user": "MikeJ"}], "title": "Category:Hardware"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"329": {"ns": 6, "pageid": 329, "revisions": [{"comment": "Power washing sherds at Portus", "timestamp": "2011-05-25T15:49:40Z", "user": "TomF"}], "title": "File:Pe powerwashing2.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

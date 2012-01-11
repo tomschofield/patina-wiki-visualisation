@@ -1,0 +1,1 @@
+{"query": {"pages": {"352": {"ns": 6, "pageid": 352, "revisions": [{"comment": "Standing by the trench", "timestamp": "2011-05-26T10:47:24Z", "user": "TomF"}], "title": "File:Ball2.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

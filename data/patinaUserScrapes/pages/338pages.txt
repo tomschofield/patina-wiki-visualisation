@@ -1,0 +1,1 @@
+{"query": {"pages": {"338": {"ns": 6, "pageid": 338, "revisions": [{"comment": "Discussing the trench", "timestamp": "2011-05-25T18:12:02Z", "user": "TomF"}], "title": "File:Pe trench2 1.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

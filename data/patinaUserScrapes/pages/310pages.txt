@@ -1,0 +1,1 @@
+{"query": {"pages": {"310": {"ns": 6, "pageid": 310, "revisions": [{"timestamp": "2011-05-09T12:18:54Z", "user": "AngelikiC"}], "title": "File:Image prosthesis.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

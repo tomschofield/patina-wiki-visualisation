@@ -1,0 +1,1 @@
+{"query": {"pages": {"570": {"ns": 6, "pageid": 570, "revisions": [{"timestamp": "2011-11-24T14:35:19Z", "user": "TomF"}], "title": "File:Small site diagram.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

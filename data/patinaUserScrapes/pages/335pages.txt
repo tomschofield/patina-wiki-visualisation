@@ -1,0 +1,1 @@
+{"query": {"pages": {"335": {"ns": 6, "pageid": 335, "revisions": [{"comment": "The context register", "timestamp": "2011-05-25T17:02:52Z", "user": "TomF"}], "title": "File:Pe context register.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

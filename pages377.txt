@@ -1,0 +1,73 @@
+FileExample
+LucM
+/* Some Invariant Information */
+2011-06-13T09:33:18Z
+LucM
+/* Relative notion of invariance */
+2011-06-13T08:57:45Z
+LucM
+/* Relative notion of invariance */
+2011-06-13T08:57:22Z
+LucM
+/* Relative notion of invariance */
+2011-06-13T08:57:02Z
+LucM
+/* Relative notion of invariance */
+2011-06-13T08:56:36Z
+LucM
+/* Some Invariant Information */
+2011-06-13T08:56:04Z
+LucM
+/* Invariant View or Perspective on Things */
+2011-06-13T08:47:56Z
+LucM
+/* Invariant View or Perspective on Things */
+2011-06-13T08:47:04Z
+LucM
+/* Mapping concepts */
+2011-06-13T08:45:54Z
+LucM
+/* Some Invariant Information */
+2011-06-13T08:44:27Z
+LucM
+/* Invariant View or Perspective on Things */
+2011-06-13T08:42:37Z
+LucM
+/* Invariant View or Perspective on Things */
+2011-06-13T08:39:51Z
+LucM
+/* Some Invariant Information */
+2011-06-13T08:36:37Z
+LucM
+/* Mapping concepts */
+2011-06-13T08:34:10Z
+LucM
+/* Mutable Things and Invariant Things */
+2011-06-13T08:28:39Z
+LucM
+/* Mapping concepts */
+2011-06-13T08:27:56Z
+LucM
+/* Mapping concepts */
+2011-06-13T08:27:12Z
+LucM
+/* Relative notion of invariance */
+2011-06-13T08:18:29Z
+LucM
+/* ddd */
+2011-06-13T08:12:45Z
+LucM
+/* File Scenario */
+2011-06-13T08:07:30Z
+LucM
+/* File Example */
+2011-06-13T08:03:55Z
+LucM
+/* File Example */
+2011-06-13T08:00:36Z
+LucM
+/* File Example */
+2011-06-13T07:51:52Z
+LucM
+Created page with "=File Example=  An alternative example to discuss concepts * smaller than the data journalism example * focuses on mutable entities * moves away from the web architecture, to avo..."
+2011-06-13T07:51:06Z

@@ -1,0 +1,1 @@
+{"query": {"pages": {"569": {"ns": 6, "pageid": 569, "revisions": [{"timestamp": "2011-11-24T13:26:56Z", "user": "TomF"}], "title": "File:Audiophoneapp.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

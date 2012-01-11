@@ -1,0 +1,1 @@
+{"query": {"pages": {"35": {"ns": 6, "pageid": 35, "revisions": [{"comment": "Overview of the key website changes for the beggining of February", "timestamp": "2011-01-31T11:36:43Z", "user": "MartynD"}], "title": "File:WebsiteChangesOverview.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

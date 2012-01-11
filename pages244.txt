@@ -1,0 +1,55 @@
+DeliverableIntervention3v3
+EnricoC
+/* Export / Import Dialogues */
+2011-06-20T21:44:08Z
+EnricoC
+/* Export / Import Dialogues */
+2011-06-20T21:43:33Z
+EnricoC
+/* Delete Confirmation Dialogues */
+2011-06-20T21:37:41Z
+EnricoC
+/* Browser View */
+2011-05-31T21:20:16Z
+EnricoC
+/* Find */
+2011-05-09T07:45:23Z
+EnricoC
+/* Find */
+2011-05-09T07:39:31Z
+EnricoC
+/* Find */
+2011-05-09T07:39:02Z
+EnricoC
+/* Create or Edit Form */
+2011-05-03T19:36:22Z
+EnricoC
+/* Groups Handling */
+2011-05-03T19:34:16Z
+EnricoC
+/* Floating Dialogs */
+2011-05-03T19:30:07Z
+EnricoC
+/* Diff */
+2011-05-03T18:53:38Z
+EnricoC
+/* Floating Dialogs */
+2011-05-03T13:15:37Z
+EnricoC
+/* Floating Dialogs */
+2011-05-03T13:12:37Z
+EnricoC
+/* History */
+2011-05-03T13:10:45Z
+EnricoC
+
+2011-04-18T14:01:23Z
+EnricoC
+
+2011-04-18T13:41:54Z
+EnricoC
+
+2011-04-08T17:03:21Z
+EnricoC
+Created page with "Work in progress..  [[File:webUI-2_1.png]] [[File:webUI-2_2.png]] [[File:webUI-2_3.png]] [[File:webUI-2_4.png]] [[File:webUI-2_5.png]] [[File:webUI-2_6.png]]"
+2011-04-08T17:00:58Z

@@ -1,0 +1,1 @@
+{"query": {"pages": {"454": {"ns": 6, "pageid": 454, "revisions": [{"timestamp": "2011-07-12T15:40:13Z", "user": "PeterB"}], "title": "File:Doubledecker.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

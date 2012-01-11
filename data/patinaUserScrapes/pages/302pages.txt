@@ -1,0 +1,1 @@
+{"query": {"pages": {"302": {"ns": 6, "pageid": 302, "revisions": [{"timestamp": "2011-05-03T20:06:12Z", "user": "EmmaT"}], "title": "File:Carddeck1.JPG"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

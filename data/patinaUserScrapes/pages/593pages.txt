@@ -1,0 +1,1 @@
+{"query": {"pages": {"593": {"ns": 6, "pageid": 593, "revisions": [{"comment": "uploaded a new version of &quot;[[File:PatinaT.class]]&quot;", "timestamp": "2012-01-06T16:23:29Z", "user": "TomS"}, {"timestamp": "2012-01-06T16:21:18Z", "user": "TomS"}], "title": "File:PatinaT.class"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

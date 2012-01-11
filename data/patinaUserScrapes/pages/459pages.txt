@@ -1,0 +1,1 @@
+{"query": {"pages": {"459": {"ns": 6, "pageid": 459, "revisions": [{"comment": "Example of SHAKE used in practice.", "timestamp": "2011-07-19T09:39:06Z", "user": "EmmaT"}], "title": "File:SHAKE1.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

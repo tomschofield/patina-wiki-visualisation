@@ -1,0 +1,1 @@
+{"query": {"pages": {"579": {"ns": 6, "pageid": 579, "revisions": [{"comment": "test of applet upload", "timestamp": "2012-01-06T13:35:52Z", "user": "TomS"}], "title": "File:ColorWheel.jar"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

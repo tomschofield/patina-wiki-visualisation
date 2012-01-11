@@ -1,0 +1,1 @@
+{"query": {"pages": {"32": {"ns": 6, "pageid": 32, "revisions": [{"comment": "Shows an typical design card example for the 'hardware' suit.", "timestamp": "2011-01-31T11:10:56Z", "user": "MartynD"}], "title": "File:PlayingCardExample.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

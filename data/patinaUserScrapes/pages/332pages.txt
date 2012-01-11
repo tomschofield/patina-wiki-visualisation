@@ -1,0 +1,1 @@
+{"query": {"pages": {"332": {"ns": 6, "pageid": 332, "revisions": [{"timestamp": "2011-05-25T16:53:18Z", "user": "TomF"}, {"comment": "G working in a deep trench", "timestamp": "2011-05-25T16:52:43Z", "user": "TomF"}], "title": "File:Pe G in trench.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"222": {"ns": 14, "pageid": 222, "revisions": [{"comment": "Created page with \"=Interaction Suit=\"", "timestamp": "2011-03-24T16:05:04Z", "user": "MikeJ"}], "title": "Category:Interaction"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

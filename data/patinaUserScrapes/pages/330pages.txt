@@ -1,0 +1,1 @@
+{"query": {"pages": {"330": {"ns": 6, "pageid": 330, "revisions": [{"comment": "Cherry Picker on site at Portus", "timestamp": "2011-05-25T15:54:24Z", "user": "TomF"}], "title": "File:Pe cherrypicker2.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

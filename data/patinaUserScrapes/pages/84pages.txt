@@ -1,0 +1,1 @@
+{"query": {"pages": {"84": {"ns": 3, "pageid": 84, "revisions": [{"comment": "Welcome!", "timestamp": "2011-02-16T15:38:26Z", "user": "MikeJ"}], "title": "User talk:AnneB"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

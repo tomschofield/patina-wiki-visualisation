@@ -1,0 +1,1 @@
+{"query": {"pages": {"109": {"ns": 6, "pageid": 109, "revisions": [{"timestamp": "2011-02-23T20:30:21Z", "user": "TomF"}], "title": "File:SG102359.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

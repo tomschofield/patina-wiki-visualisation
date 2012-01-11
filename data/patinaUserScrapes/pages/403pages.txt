@@ -1,0 +1,1 @@
+{"query": {"pages": {"403": {"ns": 6, "pageid": 403, "revisions": [{"comment": "Test 1 of Itchen Abbas ball study.", "timestamp": "2011-06-24T14:28:31Z", "user": "TomF"}], "title": "File:Test1.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

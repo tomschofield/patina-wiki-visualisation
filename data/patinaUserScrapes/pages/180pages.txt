@@ -1,0 +1,1 @@
+{"query": {"pages": {"180": {"ns": 6, "pageid": 180, "revisions": [{"comment": "Kinect intervention v2 images", "timestamp": "2011-03-17T11:51:14Z", "user": "DanieleS"}], "title": "File:RGB-image-pc.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

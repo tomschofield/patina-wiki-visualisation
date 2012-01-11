@@ -1,0 +1,1 @@
+{"query": {"pages": {"67": {"ns": 6, "pageid": 67, "revisions": [{"timestamp": "2011-02-15T14:38:33Z", "user": "MadelineB"}], "title": "File:Plan of archives.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

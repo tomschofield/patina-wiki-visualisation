@@ -1,0 +1,1 @@
+{"query": {"pages": {"139": {"ns": 6, "pageid": 139, "revisions": [{"timestamp": "2011-03-02T09:44:10Z", "user": "PeterB"}], "title": "File:Flowcardimage.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

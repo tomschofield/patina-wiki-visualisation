@@ -1,0 +1,1 @@
+{"query": {"pages": {"532": {"ns": 6, "pageid": 532, "revisions": [{"comment": "Rosamund's presentation on 'it usually take three of us...' (design framework)", "timestamp": "2011-11-02T12:48:01Z", "user": "RosamundD"}], "title": "File:Rosamund powerpoint.pptx"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

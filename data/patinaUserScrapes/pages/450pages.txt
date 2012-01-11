@@ -1,0 +1,1 @@
+{"query": {"pages": {"450": {"ns": 6, "pageid": 450, "revisions": [{"comment": "lasercutting plans", "timestamp": "2011-07-12T15:26:20Z", "user": "PeterB"}], "title": "File:Chronotape-outline.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

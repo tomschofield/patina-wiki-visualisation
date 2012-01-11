@@ -1,0 +1,1 @@
+{"query": {"pages": {"223": {"ns": 14, "pageid": 223, "revisions": [{"comment": "Created page with \"=All Cards=\"", "timestamp": "2011-03-24T16:05:14Z", "user": "MikeJ"}], "title": "Category:Card"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

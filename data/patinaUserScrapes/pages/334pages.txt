@@ -1,0 +1,1 @@
+{"query": {"pages": {"334": {"ns": 6, "pageid": 334, "revisions": [{"comment": "A photo board", "timestamp": "2011-05-25T17:02:11Z", "user": "TomF"}], "title": "File:Pe photo board.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

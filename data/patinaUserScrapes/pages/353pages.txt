@@ -1,0 +1,1 @@
+{"query": {"pages": {"353": {"ns": 6, "pageid": 353, "revisions": [{"comment": "Placing the ball", "timestamp": "2011-05-26T10:47:39Z", "user": "TomF"}], "title": "File:Ball3.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

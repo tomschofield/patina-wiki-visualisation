@@ -1,0 +1,1 @@
+{"query": {"pages": {"529": {"ns": 6, "pageid": 529, "revisions": [{"timestamp": "2011-11-02T09:28:23Z", "user": "TomS"}], "title": "File:Null by morse 1.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

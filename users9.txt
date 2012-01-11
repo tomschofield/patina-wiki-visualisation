@@ -1,0 +1,132 @@
+30
+Created page with "== Design Playing Cards Proposal == This document proposes the development of a set of design playing cards which will act ‘tokens of collaboration’between the different cons..."
+DeliverableCardDeckv1
+2011-01-31T10:50:33Z
+30
+/* Design Playing Cards Proposal */
+DeliverableCardDeckv1
+2011-01-31T11:00:30Z
+30
+/* Software */
+DeliverableCardDeckv1
+2011-01-31T11:03:47Z
+31
+Image shows a sketch design of a playing card deck with four suits
+File:PlayingCardDeck.jpg
+2011-01-31T11:10:12Z
+32
+Shows an typical design card example for the 'hardware' suit.
+File:PlayingCardExample.jpg
+2011-01-31T11:10:56Z
+33
+Shows a sketcvh example of a design card from teh concept suit
+File:PlayingCardExample2.jpg
+2011-01-31T11:13:32Z
+30
+/* Playing Card Suits */
+DeliverableCardDeckv1
+2011-01-31T11:17:56Z
+34
+Created page with "=Proposal= This document outlines proposed changes to the PATINA website, including the addition of a project diary, a rolling text and image gallery and a menu on the home page ..."
+DeliverableProjectDiaryv1
+2011-01-31T11:35:27Z
+35
+Overview of the key website changes for the beggining of February
+File:WebsiteChangesOverview.jpg
+2011-01-31T11:36:43Z
+36
+Overview of propoesed new section (project diary) on the PATINA website.
+File:WebSiteProjectDiary.jpg
+2011-01-31T11:37:39Z
+34
+/* Proposal */
+DeliverableProjectDiaryv1
+2011-01-31T11:42:06Z
+93
+/* timeline: is it the right metaphore? */
+Talk:DeliverableIntervention1v1
+2011-02-23T20:06:50Z
+93
+/* Followup to Lucs Comments */
+Talk:DeliverableIntervention1v1
+2011-02-23T20:07:18Z
+159
+
+File:Diagrams.jpg
+2011-03-16T09:44:28Z
+160
+Created page with "'''Design Cards Wiki Update'''    1) The design leaders in the project (particularly Emma and Pete) need as many sources as possible for design inspiration. For Pete particularly..."
+Talk:DeliverableCardDeckv1
+2011-03-16T09:45:04Z
+217
+
+Card:ImageSchema
+2011-06-09T07:25:02Z
+213
+
+Card:Atmosphere
+2011-06-09T07:28:30Z
+212
+
+Card:Flow
+2011-06-09T07:30:40Z
+211
+
+Card:Architectonic
+2011-06-09T07:32:26Z
+214
+
+Card:Narrative
+2011-06-09T07:36:59Z
+210
+
+Card:Ritual
+2011-06-09T07:38:24Z
+215
+
+Card:Timeline
+2011-06-09T07:39:58Z
+214
+
+Card:Narrative
+2011-06-09T07:43:47Z
+203
+
+Card:Uncertainty
+2011-06-09T07:47:16Z
+408
+Created page with "==Commentary==  ''I am proposing this paper as a submission to the journal New Media and Society for their special issue on ‘Search: Navigating the Worlds Information’. I tho..."
+The Architectonics of Search
+2011-06-24T15:18:35Z
+504
+
+Year2and3Design
+2011-10-12T10:06:40Z
+520
+
+Meeting-2/11/2011
+2011-10-25T16:24:29Z
+506
+
+DesignSketches-001
+2011-11-02T08:17:06Z
+538
+
+Task3-NarrationDesign
+2011-11-15T11:10:13Z
+538
+/* Links */
+Task3-NarrationDesign
+2011-11-15T11:16:18Z
+538
+/* General Ongoing Tasks */
+Task3-NarrationDesign
+2011-11-15T11:16:51Z
+1
+/* what to do now: */
+Main Page
+2011-11-15T11:22:33Z
+539
+/* Notes / Scratchpad */
+Task4-CaptureDesign
+2011-11-15T13:38:34Z

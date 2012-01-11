@@ -1,0 +1,181 @@
+DeliverableIntervention3v2
+MattJ
+
+2011-03-23T21:18:39Z
+EnricoC
+
+2011-03-16T22:46:53Z
+EnricoC
+/* Intervention outline */
+2011-03-16T22:42:51Z
+EnricoC
+/* Web Version */
+2011-03-16T22:21:07Z
+EnricoC
+/* Simple Example */
+2011-03-16T21:57:41Z
+EnricoC
+/* Mobile Version */
+2011-03-16T21:48:38Z
+EnricoC
+/* Follow Up Issue */
+2011-03-16T21:46:38Z
+EnricoC
+/* Other Interventions */
+2011-03-16T21:46:09Z
+EnricoC
+/* Intervention outline */
+2011-03-16T21:41:52Z
+EnricoC
+/* Expectations and Questions */
+2011-03-16T21:39:46Z
+EnricoC
+/* Vision */
+2011-03-16T21:39:26Z
+EnricoC
+/* Vision */
+2011-03-16T21:38:55Z
+EnricoC
+/* Hypotheses & Research Questions */
+2011-03-16T21:38:10Z
+EnricoC
+/* Hypotheses & Research Questions */
+2011-03-16T21:37:32Z
+EnricoC
+/* Vision */
+2011-03-16T21:28:57Z
+EnricoC
+/* Vision */
+2011-03-16T21:19:20Z
+EnricoC
+/* Other Screen-based Interventions */
+2011-03-16T18:56:18Z
+EnricoC
+/* Vision */
+2011-03-16T18:50:12Z
+EnricoC
+/* Vision */
+2011-03-16T18:31:32Z
+EnricoC
+/* Vision */
+2011-03-04T19:04:48Z
+EnricoC
+/* Vision */
+2011-03-04T19:03:05Z
+EnricoC
+/* Vision */
+2011-03-02T18:46:17Z
+EnricoC
+/* Simple Example */
+2011-03-01T17:33:40Z
+EnricoC
+/* Simple Example */
+2011-03-01T17:32:20Z
+EnricoC
+/* Vision */
+2011-03-01T17:26:18Z
+EnricoC
+/* Vision */
+2011-03-01T17:25:28Z
+EnricoC
+/* Vision */
+2011-03-01T17:20:12Z
+EnricoC
+/* Vision */
+2011-03-01T17:19:06Z
+EnricoC
+/* Web Version */
+2011-03-01T17:10:43Z
+EnricoC
+/* Intervention outline */
+2011-03-01T17:07:11Z
+EnricoC
+/* Mobile Version */
+2011-03-01T17:06:47Z
+EnricoC
+/* Intervention outline */
+2011-03-01T17:05:38Z
+EnricoC
+/* Archaeology Intervention */
+2011-03-01T15:56:01Z
+EnricoC
+/* Intervention outline */
+2011-03-01T15:55:19Z
+EnricoC
+/* Intervention outline */
+2011-03-01T15:37:02Z
+EnricoC
+/* Intervention outline */
+2011-03-01T15:34:25Z
+EnricoC
+/* Vision */
+2011-03-01T15:33:34Z
+EnricoC
+/* Web Version */
+2011-03-01T15:27:24Z
+EnricoC
+/* Web Version */
+2011-03-01T15:26:27Z
+EnricoC
+/* Simple Example */
+2011-03-01T09:42:42Z
+AngelikiC
+
+2011-03-01T00:19:13Z
+EnricoC
+/* Intervention outline */
+2011-02-28T18:26:10Z
+GraemeE
+/* Vision */
+2011-02-28T07:56:20Z
+GraemeE
+/* Vision */
+2011-02-28T07:51:14Z
+EnricoC
+/* Simple Example */
+2011-02-27T17:05:43Z
+EnricoC
+/* Simple Example */
+2011-02-27T17:03:36Z
+EnricoC
+/* Simple Example */
+2011-02-27T17:02:28Z
+EnricoC
+
+2011-02-25T17:30:12Z
+EnricoC
+/* Intervention outline */
+2011-02-25T17:27:53Z
+EnricoC
+/* Intervention outline */
+2011-02-25T17:23:46Z
+EnricoC
+/* Intervention outline */
+2011-02-25T17:22:56Z
+EnricoC
+/* Intervention outline */
+2011-02-25T17:21:27Z
+EnricoC
+/* Vision */
+2011-02-25T17:19:55Z
+EnricoC
+/* Intervention outline */
+2011-02-25T17:19:31Z
+EnricoC
+
+2011-02-25T16:48:58Z
+EnricoC
+/* 1. Infrastructure & Input: Recording Linked Data(*) */
+2011-02-25T16:18:56Z
+EnricoC
+
+2011-02-25T16:14:50Z
+EnricoC
+
+2011-02-25T16:14:25Z
+EnricoC
+/* 1. Infrastructure & Input: Recording Linked Data(*) */
+2011-02-25T16:12:22Z
+EnricoC
+Created page with "== Archaeology Intervention ==  === Vision ===  * The vision is to support the archaeology process of interpretation building around physical artefacts  * It is based on the hypo..."
+2011-02-25T15:40:42Z

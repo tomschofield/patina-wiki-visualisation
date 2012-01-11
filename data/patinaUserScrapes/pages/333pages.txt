@@ -1,0 +1,1 @@
+{"query": {"pages": {"333": {"ns": 6, "pageid": 333, "revisions": [{"comment": "Makeshift steps in the deep trench", "timestamp": "2011-05-25T16:57:23Z", "user": "TomF"}], "title": "File:Pe makeshift steps.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

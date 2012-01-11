@@ -1,0 +1,1 @@
+{"query": {"pages": {"547": {"ns": 6, "pageid": 547, "revisions": [{"timestamp": "2011-11-15T14:17:11Z", "user": "PeterB"}], "title": "File:Whiteboard-right.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"5": {"ns": 3, "pageid": 5, "revisions": [{"comment": "Welcome!", "timestamp": "2011-01-20T12:28:05Z", "user": "WikiSysop"}], "title": "User talk:MikeJewell"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

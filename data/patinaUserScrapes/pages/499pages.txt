@@ -1,0 +1,1 @@
+{"query": {"pages": {"499": {"ns": 6, "pageid": 499, "revisions": [{"timestamp": "2011-09-22T21:12:28Z", "user": "MikeF"}], "title": "File:PlenaryProceedingsYear1.docx"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

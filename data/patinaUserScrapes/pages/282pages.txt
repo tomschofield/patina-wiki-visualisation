@@ -1,0 +1,1 @@
+{"query": {"pages": {"282": {"ns": 6, "pageid": 282, "revisions": [{"timestamp": "2011-04-18T17:06:52Z", "user": "PeterB"}], "title": "File:Chronotope-cards-1.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

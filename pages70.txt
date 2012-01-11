@@ -1,0 +1,7 @@
+Talk:DeliverableAPIv1
+LucM
+
+2011-02-15T17:06:54Z
+LucM
+Created page with "Adding an annotation to a person should return a new URI (like it was done for the skeleton). And the new person should be an annotated version of the original one.  Luc"
+2011-02-15T17:06:28Z

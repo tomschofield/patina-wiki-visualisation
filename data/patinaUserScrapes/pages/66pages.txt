@@ -1,0 +1,1 @@
+{"query": {"pages": {"66": {"ns": 6, "pageid": 66, "revisions": [{"comment": "A hand drawn plan of the archives - please note it is not to scale.", "timestamp": "2011-02-15T14:27:21Z", "user": "MadelineB"}], "title": "File:Plan of archives.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

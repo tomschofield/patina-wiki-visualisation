@@ -1,0 +1,1 @@
+{"query": {"pages": {"285": {"ns": 6, "pageid": 285, "revisions": [{"timestamp": "2011-04-19T09:32:22Z", "user": "LucM"}], "title": "File:ProvenanceGraph.pdf"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

@@ -1,0 +1,1 @@
+{"query": {"pages": {"119": {"ns": 6, "pageid": 119, "revisions": [{"timestamp": "2011-02-27T17:04:17Z", "user": "EnricoC"}], "title": "File:Mobile input example.png"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

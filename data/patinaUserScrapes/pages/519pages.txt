@@ -1,0 +1,1 @@
+{"query": {"pages": {"519": {"ns": 6, "pageid": 519, "revisions": [{"timestamp": "2011-10-21T12:28:40Z", "user": "PeterB"}], "title": "File:Claytablets.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

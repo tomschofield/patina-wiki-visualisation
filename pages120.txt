@@ -1,0 +1,160 @@
+Talk:DeliverableIntervention3v2
+EnricoC
+/* Interaction with physical artefacts [closed] */
+2011-03-16T18:56:48Z
+EnricoC
+/* Interaction with physical artefacts */
+2011-03-16T18:56:31Z
+EnricoC
+/* Artefact grouping and IDs */
+2011-03-16T18:50:58Z
+EnricoC
+
+2011-03-04T11:46:06Z
+EnricoC
+/* Timing vs Ordering */
+2011-03-03T23:10:39Z
+EnricoC
+/* keywords */
+2011-03-03T21:22:54Z
+EnricoC
+/* Mobile vs Web based UIs */
+2011-03-03T21:22:31Z
+EnricoC
+
+2011-03-03T21:11:53Z
+EnricoC
+/* Terminology: layering vs versioning */
+2011-03-03T21:11:05Z
+EnricoC
+/* Timing vs Ordering */
+2011-03-02T18:46:47Z
+EnricoC
+/* IRC vs Wiki? */
+2011-03-02T10:47:35Z
+LucM
+/* IRC vs Wiki? */
+2011-03-02T09:01:21Z
+LucM
+/* IRC vs Wiki? */
+2011-03-02T08:58:30Z
+LucM
+/* IRC vs Wiki? */
+2011-03-02T08:58:03Z
+LucM
+/* IRC vs Wiki? */
+2011-03-02T08:39:34Z
+LucM
+/* IRC vs Wiki? */
+2011-03-02T08:38:26Z
+LucM
+/* IRC vs Wiki? */ new section
+2011-03-02T08:29:01Z
+LucM
+/* Terminology: layering vs versioning */
+2011-03-01T22:12:01Z
+LucM
+/* Terminology: layering vs versioning */
+2011-03-01T22:07:16Z
+LucM
+/* Terminology: layering vs versioning */
+2011-03-01T22:02:20Z
+LucM
+/* Terminology: layering vs versioning */
+2011-03-01T22:01:15Z
+LucM
+/* Timing vs Ordering */ new section
+2011-03-01T21:57:29Z
+EnricoC
+/* Terminology: layering vs versioning */
+2011-03-01T17:40:45Z
+EnricoC
+/* Terminology: layering vs versioning */
+2011-03-01T17:40:18Z
+LucM
+/* Terminology: layering vs versioning */
+2011-03-01T17:19:33Z
+LucM
+/* Mobile vs Web based UIs */
+2011-03-01T17:13:19Z
+LucM
+/* Intervention outline */
+2011-03-01T17:05:30Z
+LucM
+/* Terminology: layering vs versioning */
+2011-03-01T16:58:54Z
+EnricoC
+/* Benefits of the note structure */
+2011-03-01T10:57:32Z
+AngelikiC
+/* Artefact grouping and IDs */ new section
+2011-03-01T00:10:02Z
+AngelikiC
+/* Interaction with physical artefacts */ new section
+2011-02-28T23:37:50Z
+EnricoC
+
+2011-02-28T18:06:46Z
+EnricoC
+/* Mobile vs Web based UIs */
+2011-02-28T18:02:51Z
+EnricoC
+/* keywords */
+2011-02-28T17:40:43Z
+EnricoC
+/* Intervention outline */
+2011-02-28T17:37:02Z
+EnricoC
+/* Benefits of the note structure */
+2011-02-28T17:20:37Z
+EnricoC
+/* Benefits of the note structure */
+2011-02-28T17:18:24Z
+EnricoC
+/* Benefits of the note structure */
+2011-02-28T17:17:38Z
+EnricoC
+/* Benefits of the note structure */
+2011-02-28T17:12:32Z
+TomF
+/* Intervention outline */
+2011-02-28T17:11:19Z
+TomF
+/* Intervention outline */
+2011-02-28T17:11:04Z
+EnricoC
+/* Terminology: layering vs versioning */
+2011-02-28T17:02:16Z
+EnricoC
+/* Terminology: layering vs versioning */
+2011-02-28T17:01:54Z
+LucM
+/* Mobile vs Web based UIs */ new section
+2011-02-28T09:03:00Z
+LucM
+/* keywords */ new section
+2011-02-28T08:57:36Z
+LucM
+/* Intervention outline */
+2011-02-28T08:49:35Z
+LucM
+
+2011-02-28T08:45:34Z
+LucM
+/* Intervention outline */ new section
+2011-02-28T08:45:15Z
+LucM
+/* Benefits of the note structure */
+2011-02-28T08:40:12Z
+LucM
+
+2011-02-28T08:39:29Z
+LucM
+/* Benefits of the note structure */ new section
+2011-02-28T08:38:30Z
+LucM
+
+2011-02-28T08:24:17Z
+LucM
+Terminology layering vs versioning
+2011-02-28T08:24:03Z

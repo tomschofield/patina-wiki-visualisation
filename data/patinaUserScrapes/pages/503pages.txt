@@ -1,0 +1,1 @@
+{"query": {"pages": {"503": {"ns": 6, "pageid": 503, "revisions": [{"timestamp": "2011-09-29T09:33:10Z", "user": "MikeF"}], "title": "File:PATINA-yr1-review-feedback.docx"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

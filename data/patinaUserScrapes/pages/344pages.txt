@@ -1,0 +1,1 @@
+{"query": {"pages": {"344": {"ns": 6, "pageid": 344, "revisions": [{"comment": "A group of archaeologists discuss the trench", "timestamp": "2011-05-25T18:27:34Z", "user": "TomF"}], "title": "File:Pe group.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

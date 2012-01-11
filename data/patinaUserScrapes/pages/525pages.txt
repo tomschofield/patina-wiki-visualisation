@@ -1,0 +1,1 @@
+{"query": {"pages": {"525": {"ns": 6, "pageid": 525, "revisions": [{"comment": "Illustration for PoN development idea", "timestamp": "2011-10-31T10:33:31Z", "user": "TomF"}], "title": "File:Pondevidea2.jpg"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

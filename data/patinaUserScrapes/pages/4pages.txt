@@ -1,0 +1,1 @@
+{"query": {"pages": {"4": {"ns": 2, "pageid": 4, "revisions": [{"comment": "Creating user page with biography of new user.", "timestamp": "2011-01-20T12:28:05Z", "user": "WikiSysop"}], "title": "User:MikeJewell"}}}, "warnings": {"revisions": {"*": "rvlimit may not be over 500 (set to 550) for users"}}}

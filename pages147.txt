@@ -1,0 +1,13 @@
+Card:Agent
+MikeJ
+
+2011-03-24T15:50:03Z
+MikeJ
+
+2011-03-07T16:48:39Z
+MikeJ
+
+2011-03-07T16:47:31Z
+MikeJ
+Created page with "==Agent==  ===Description===  An agent is a contextual entity which acts as the catalyst of a process; enabling, facilitating, controlling, or affecting its execution. An agent m..."
+2011-03-02T15:48:45Z
