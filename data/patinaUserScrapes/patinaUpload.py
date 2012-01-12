@@ -4,7 +4,7 @@ import wikitools
 import poster
 
 wiki = wikitools.wiki.Wiki("http://wiki.patina.ecs.soton.ac.uk/api.php")
-wiki.login(username="TomS", password="sxnu27")
+wiki.login(username="USERNAME", password="PASSWORD")
 
 screenshotPage = wikitools.wikifile.File(wiki=wiki, title="TestMonkey.png")
 
