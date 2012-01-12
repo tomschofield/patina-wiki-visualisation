@@ -4,8 +4,8 @@ import json
 
 from wikitools import wiki, api
 #username, password=False, remember=False, force=False, verify=True, domain=None
-params1 = {'username':'TomS',
-    'password':'sxnu27',
+params1 = {'username':'USERNAME',
+    'password':'PASSWORD',
     'remember':'False',
     'force':'False',
     'verify':'True',
