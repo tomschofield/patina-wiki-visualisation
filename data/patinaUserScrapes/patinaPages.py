@@ -16,7 +16,7 @@ params1 = {'username':'TomS',
 site = wiki.Wiki("http://wiki.patina.ecs.soton.ac.uk/api.php")
 
 #login
-log=site.login("TomS","sxnu27")
+log=site.login("USERNAME","PASSWORD")
 #params = {'action':'query',
  #   'list':'allpages',
   #  'aplimit':'550'
