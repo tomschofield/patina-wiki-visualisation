@@ -4,8 +4,8 @@ import json
 
 from wikitools import wiki, api
 #username, password=False, remember=False, force=False, verify=True, domain=None
-params1 = {'username':'TomS',
-    'password':'sxnu27',
+params1 = {'username':'USERNAME',
+    'password':'PASSWORD',
     'remember':'False',
     'force':'False',
     'verify':'True',
@@ -16,7 +16,7 @@ params1 = {'username':'TomS',
 site = wiki.Wiki("http://wiki.patina.ecs.soton.ac.uk/api.php")
 
 #login
-log=site.login("TomS","sxnu27")
+log=site.login("USERNAME","PASSWORD")
 #params = {'action':'query',
  #   'list':'allpages',
   #  'aplimit':'550'
