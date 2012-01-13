@@ -16,10 +16,6 @@ cc tom schofield 2011
 //TODO FOCUS PLUS TIMELINE
 //mediawiki applet extension doesn't support multiple applets (seemingly) so the JSON library reliance is removed in some versions
 
-//TODO write description of visualisations and semantic - what are we seeing
-//KEEP IN MIND THIS A SECTION OF A POTENTIAL PAPER! POSTING BACK TO WIKI
-//KNOWN BUGS
-//GIT HUB THIS SHIT!
 
 import org.json.*;
 boolean fromJSON=false;
@@ -39,25 +35,31 @@ PFont font;
 //a bigger font
 PFont bFont;
 
-String[] usrNms;
-
 //circle sizes
 float innerRad;
 int outerRad;
 
+//used for debugging or posting to web versions
 boolean forWeb=false;
+
+
 Date timeNow;
+
+//total date range of timeline
 Date startOfDateRange;
 Date endOfDateRange;
 
+//as above but as longs
 long startRange;
 long endRange;
+
+
 long someTimeAgo;
 long xTimeAgo;
 
 void setup() {
 
-  size(1280,720);
+  size(1280, 720);
 
   innerRad=height/3;
   outerRad=height/8;
@@ -67,8 +69,11 @@ void setup() {
   startOfDateRange = new Date();
   endOfDateRange = new Date();
 
+  //yesterday
   xTimeAgo=timeNow.getTime()- (1L * 24 * 60 * 60 * 1000);
+  //60 days previously - this is used for the inital time selection on the sliders
   someTimeAgo= timeNow.getTime() - (60L * 24 * 60 * 60 * 1000);
+  //the very start of the whole time range - 1 year ago
   startRange = timeNow.getTime()- (365L * 24 * 60 * 60 * 1000);
   endRange = timeNow.getTime();
 
@@ -76,16 +81,15 @@ void setup() {
 
   startOfDateRange.setTime(someTimeAgo);
   endOfDateRange.setTime(xTimeAgo);
-  //println(startOfDateRange);
-  //WEB
-  //size(1480 , 1480);
+
   font = loadFont("Helvetica-Light-16.vlw");
-  //bFont = loadFont("Helvetica-Light-24.vlw");
+
   bFont = loadFont("Corbel-Bold-300.vlw");
   String [] userNames = {
     "AngelikiC", "AnneB", "DanieleS", "DannyW", "EmmaT", "EnricoC", "GraemeE", "LucM", "MadelineB", "MartynD", "MattJ", "MikeF", "MikeJ", "PeterB", "RosamundD", "TomF", "TomS"
   };
-  usrNms=userNames;
+
+
   numUsers= userNames.length;
   users = new User[userNames.length];
 
@@ -104,7 +108,7 @@ void setup() {
     //count edits on own pages within this date range
     users[i].countOwnActivity();
   }
-  //find most active users in this date period and set as maximum
+  //find most active users in this date period and set as maximum number of possible edits for user circles
   setMaxActivities();
 
   ///gui setup - I want to work on this class and make a proper custom gui
@@ -113,7 +117,7 @@ void setup() {
   gui.setupTextField(searchColour, 20, height-130, 100);
   gui.setupButton( 20, height-100, 20);
 
-  //rather wastefully resets positions of page nodes 
+  //rather wastefully resets positions of page nodes - wasteful because ideally this should happen in the constructor
   reorganiseNodesByDate();
 }
 
@@ -126,56 +130,55 @@ void draw() {
   background(255);
 
   smooth();
+  //draw patina in big letters 
   pushStyle();
   textFont(bFont, 230);
   pushMatrix();
-  // pushMatrix();
   translate(width-150, -25);
   rotate(0.5*PI);
-  //popMatrix();
-
-
   text("PATINA", 0, 0);
   popMatrix();
   popStyle();
+  
+  //gui.button is the toggle for animation, it activates a flag in the slider object
   if (gui.button.isPressed ) {
     if (! gui.slider.animate) {    
-      // gui.slider.sliderPos=gui.slider.sliderX;
-      //   gui.slider.sliderPos2=gui.slider.sliderX+50;
       gui.slider.animate=true;
     }
   }
   else {
     gui.slider.animate=false;
   }
+  
+  //draws the spiral timeline
   drawTimeLineBackground();
+  
+  //draw gui elements
   gui.slider.drawSlider();
   gui.button.drawButton();
+  gui.textField.drawTextField();
+
   pushStyle();
   drawUsers();
   popStyle();
   textFont(bFont, 24);
   textAlign(LEFT);
+  //for each page ID listed in the active pages array
   for (int i=0;i<activePages.size();i++) {
     try {
 
-      // if(allPages[ (Integer)activePages.get(i) ].drawStar()
-      allPages[ (Integer)activePages.get(i) ].drawStar();
-      //  println(i+" "+allPages[i].xPos);
+      //draw that page node
+      allPages[ (Integer)activePages.get(i) ].drawPage();
     }
     catch(Exception e) {
     }
   }
-  for (int i=0;i<73;i++) {
-    try {
-    }
-    catch(Exception e) {
-    }
-  }
-  gui.textField.drawTextField();
+
+   //if user hits enter then the commence search TODO - make this happen only with mouse press
   if (gui.textField.searchFlag) {
     println("searching for "+gui.textField.currentText);
     for (int i=0;i<allPages.length;i++) {
+      //inTitle returns true if regex finds search term within title
       if (inTitle(gui.textField.currentText.toLowerCase(), allPages[i].thisTitle.toLowerCase())) {
         println(gui.textField.currentText + " " +   allPages[i].thisTitle); 
         allPages[i].highlightInSearch=true;
@@ -190,7 +193,7 @@ void draw() {
 }
 
 
-
+//functional stuff for copying arraylists to arrays (probably very inefficient)
 
 int[] returnIntArray(ArrayList myList) {
   int[] forReturn = new int[myList.size()];
@@ -234,8 +237,6 @@ Date[] returnDateArray(ArrayList myList) {
 
 
 void keyPressed() {
-  println(key);
-  char thisKey=key;
   gui.textField.update(key);
 }
 
@@ -267,7 +268,7 @@ int getMax(int[] ints) {
   }
   return maxint;
 }
-
+  //find most active users in this date period and set as maximum number of possible edits for user circles
 void setMaxActivities() {
   int []ownCounts=new int[numUsers];
   int []sharedCounts=new int[numUsers];
@@ -275,10 +276,10 @@ void setMaxActivities() {
     ownCounts[i]=users[i].countOwn;
     sharedCounts[i]=users[i].countShared;
   }
-  //println(getMax(ownCounts));
   maxOwnActivity=getMax(ownCounts);
   maxSharedActivity =getMax(sharedCounts);
 }
+  //get list of array indices for pages within date range
 
 ArrayList getActivePages() {
 
@@ -300,7 +301,8 @@ boolean inTitle(String searchTerm, String thisTitle) {
   String[][] m = matchAll(thisTitle, "("+searchTerm+")");
   if (m!=null) {
     for (int i = 0; i < m.length; i++) {
-      //  println("Found " + m[i][1] + " inside a tag.");
+      
+      //only return matches more than 3 characters long. I am not interested in preposition or articles ;)
       if (m[i][1].length()>3) {
         isInTitle= true;
       }
@@ -310,12 +312,11 @@ boolean inTitle(String searchTerm, String thisTitle) {
     }
   }
   else {
-    // println("null");
     isInTitle= false;
   }
   return isInTitle;
 }
-
+//sets x and y position of page nodes according to their position along the spiral timeline in chronological order
 void reorganiseNodesByDate() {
   long[] allDates= new long[allPages.length];
   ArrayList usedAngles= new ArrayList();
@@ -325,27 +326,13 @@ void reorganiseNodesByDate() {
     usedAngles.add(allPages[i].oldestDate);
   }
   Collections.sort(usedAngles);
-  //println(usedAngles);
 
-
-
-
-
-
-
-  //long oldestDate=getOldestDate(allDates);
-  //long newestDate=getNewestDate(allDates);
-  //lets try 10 revolutions around the centre
   float maxAngle = numRevs*TWO_PI;
   float increment=innerRad/allPages.length;
   float rad=0;
   float prevAngle=0;
 
   for (int i=0;i<allPages.length;i++) {
-    // Date time = new Date();
-    // time.setTime(allPages[i].oldestDate);
-    // println(i+"th date in sequence is "+time);
-
     int nthDate=0;
     for (int j=0;j<usedAngles.size();j++) {
       if (allPages[i].oldestDate==(Long)usedAngles.get(j)) {
@@ -355,7 +342,6 @@ void reorganiseNodesByDate() {
     }
 
     float angle=(map(nthDate, 0, allPages.length, 0, maxAngle));
-    //float angle=(map(sqrt(nthDate),0,allPages.length, 0, maxAngle));
 
     rad=nthDate*increment;
     prevAngle=angle;
@@ -402,10 +388,7 @@ void drawTimeLineBackground() {
   beginShape();
   float angle=maxAngle/allPages.length;
   for (int i=0;i<0.75*allPages.length;i++) {
-
-
-    //float angle=(map(sqrt(nthDate),0,allPages.length, 0, maxAngle));
-
+        
     rad+=increment;
 
     float vX=width/2+ int(rad * sin(i*angle));

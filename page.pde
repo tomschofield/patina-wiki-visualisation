@@ -1,8 +1,24 @@
+/*
+cc tom schofield 2011
+ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+ 
+ The above copyleft notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYLEFT HOLDERS BE LIABLE FOR ANY CLAIM, 
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+ DEALINGS IN THE SOFTWARE.
+ */
 class Page
 {
   int iD;
+
+  //all users who have ever edited this page
   String[] userNames;
+  //comments on each revision
   String[] comments;
+  //dates of each revision
   Date[] dates;
   long oldestDate;
   int count;
@@ -12,11 +28,17 @@ class Page
   int xPos;
   int yPos;
   int pageRad=7;
+  //title of this page
   String thisTitle;
+  //highlight flag if this page has been edited only by a specific user. Set in user class
   boolean highlight;
+  //highlight flag if this page has been edited only by more than one users. Set in user class
+
   boolean highlightShared;
+  //highlight flag if this page title maches entered search term
+
   boolean highlightInSearch;
-  
+
   Page(int id, String[] usrs, String[] cmts, Date[] dts, String tt) {
     iD=id;
     userNames=usrs;
@@ -27,21 +49,22 @@ class Page
     getConnectedUsers( );
     thisTitle=tt;
     oldestDate=getOldestRevisionDate();
-    //println(indices.length+" indices.length ");
-    //float rad=random(0, innerRad-(0.1*innerRad));
-    float rad= map(indices.length,0,16, 0, innerRad-(0.1*innerRad));
+
+    //this x and y is later overwritten anyway TODO fix this
+    float rad= map(indices.length, 0, 16, 0, innerRad-(0.1*innerRad));
     float angle=random(0, TWO_PI);
 
     xPos=width/2+ int(rad * sin(angle));
     yPos =height/2+int( rad *cos(angle));
-    
+
     highlight=false;
     highlightShared=false;
     highlightInSearch=false;
-    
   }
-  void drawStar() {
+  void drawPage() {
     pushStyle();
+    pageRad = indices.length*3;
+
     noStroke();
     ellipseMode(CENTER);
 
@@ -94,43 +117,26 @@ class Page
         ellipse(xPos, yPos, pageRad, pageRad);
       }
     }
-    pageRad = indices.length*3;
     popStyle();
   }
   boolean mouseOver() {
     boolean isOver=false;
-    /*if (mouseX>xPos - pageRad && mouseX < xPos+ pageRad && mouseY>yPos - pageRad && mouseY < yPos+ pageRad) {
-      isOver=true;
-    }*/
+    
     int tol=2;
     if (mouseX>xPos - tol && mouseX < xPos+ tol && mouseY>yPos - tol && mouseY < yPos+ tol) {
-            isOver=true;
-
+      isOver=true;
     }
-    
+
     else {
       isOver=false;
     }
     return isOver;
   }
 
-  /*  void drawPageConnections(User[] usrs) {
-   for(int i=0;i<indices.length;i++){
-   float thatX= usrs[indices[i]].x;
-   float thatY= usrs[indices[i]].y;
-   stroke(100);
-   strokeWeight(5);
-   noFill();
-   //line(thisX,thisY,thatX,thatY);
-   bezier(thisX+50,thisY,width/2,height/2,width/2,height/2, thatX,thatY);
-   strokeWeight(1);
-   }
-   }*/
-
+//called on mouser over - draws lines to all users who have ever edited this page
   void drawPageConnections() {
     pushStyle();
-    //println(users.length);
-    //println(users[0]);
+   
     for (int i=0;i<indices.length;i++) {
       // println("indices "+indices[i]);
       float thatX= users[indices[i]].x;
@@ -139,12 +145,12 @@ class Page
       strokeWeight(1);
       noFill();
       line(xPos, yPos, thatX, thatY);
-      // bezier(xPos+50,yPos,width/2,height/2,width/2,height/2, thatX,thatY);
       strokeWeight(1);
     }
     popStyle();
   }
-
+  
+  //list of all array positions in users array of all users who have ever edited this page 
   int [] getConnectedUsers() {
     ArrayList uniqueList = new ArrayList(); 
 
@@ -211,16 +217,16 @@ class Page
       //make an array of unique indices
     }
   }
-  
-  long getOldestRevisionDate(){
+
+  long getOldestRevisionDate() {
     Date today = new Date();
     long currentOldest=today.getTime();
-    
-    for(int i=0;i<dates.length;i++){
-     if(dates[i].getTime()<currentOldest){
-      currentOldest=dates[i].getTime();
-      //println(currentOldest+" current oldest");
-     } 
+
+    for (int i=0;i<dates.length;i++) {
+      if (dates[i].getTime()<currentOldest) {
+        currentOldest=dates[i].getTime();
+        //println(currentOldest+" current oldest");
+      }
     }
     Date oldest = new Date();
     oldest.setTime(currentOldest);
